@@ -61,5 +61,3 @@ The `./code/` directory contains separate scripts to replicate each analytical f
   - [05-figure6-LES-v-our-measure-of-effectiveness.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/05-figure6-LES-v-our-measure-of-effectiveness.R): Code to replicate Figure 6 of the paper, comparing our measure of effectivenes (legislation enacted as proportion of legislation introduced) v. Legislative Effectiveness Scores, of Volden and Weiseman.
  
 <img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure6a-LES-vs-OUR-indiv-diff.png">
-<img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure6b-LES-vs-OUR-indiv-diff-FULL-DIST.png">
-
