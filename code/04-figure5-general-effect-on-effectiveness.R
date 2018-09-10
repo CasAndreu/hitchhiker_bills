@@ -3,7 +3,12 @@
 # Purpose: to replicate figure 5 of the paper, showing how counting hitchhikers 
 #           as enacted legislation increases the proportion of different types 
 #           of members that get at least 1 bill enacted in any given Congress
-# Author: Andreu Casas
+# Article: "More Effective Than We Thought: Accounting for Legislative 
+#           Hitchhikers Reveals a More Inclusive and Productive Lawmaking 
+#           Process."
+# Journal: American Journal of Political Science
+# Year: 2018
+# Author: Andreu Casas, Matt Denny, and John
 #===============================================================================
 
 # PACKAGES
