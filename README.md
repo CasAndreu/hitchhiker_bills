@@ -58,6 +58,6 @@ The `./code/` directory contains separate scripts to replicate each analytical f
  
 <img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure5_so_what_BW.png">
 
-  - [05-figure6-LES-v-our-measure-of-effectiveness.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/05-figure6-LES-v-our-measure-of-effectiveness.R): Code to replicate Figure 6 of the paper, comparing our measure of effectivenes (legislation enacted as proportion of legislation introduced) v. Legislative Effectiveness Scores, of Volden and Weiseman.
+  - [05-figure6-LES-v-our-measure-of-effectiveness.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/05-figure6-LES-v-our-measure-of-effectiveness.R): Code to replicate Figure 6 of the paper, comparing our measure of effectivenes (legislation enacted as proportion of legislation introduced) v. Legislative Effectiveness Scores, of Volden and Weiseman. This script generates 2 figures: `figure6a-LES-vs-OUR-indiv-diff.png` and `figure6b-LES-vs-OUR-indiv-diff-FULL-DIST.png`. For the article we manually placed the second on into the upper right corner of the first. The first one is a truncated distribution whereas the second one illustrate the full distribution we aim to capture in this section of the article.
  
 <img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure6a-LES-vs-OUR-indiv-diff.png">
