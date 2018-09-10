@@ -53,3 +53,7 @@ The `./code/` directory contains separate scripts to replicate each analytical f
   - [03-models.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/03-models.R): Code to replicate Figure 4, and the model coefficients in Table 4 (in Supporting Information D), showing the relationship between a relevant set of covariates and the probability of a bill to be enacted as stand alone legislation or as a hitchhiker bill.
   
 <img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure4-coefficient-plot.png">
+
+  - [04-figure5-general-effects-on-effectiveness.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/04-figure5-general-effect-on-effectiveness.R): Code to replicate figure 5 of the paper, showing how counting hitchhikers as enacted legislation increases the proportion of different types of members that get at least 1 bill enacted in any given Congress
+ 
+<img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure5_so_what_BW.png">
