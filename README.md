@@ -35,3 +35,12 @@ The `./data/` directory contains the main replication dataset: `main_db.csv`. Th
   - `by_request`: (binary) whether the bill has been promoted by the Administration. Bills that are primarily about defense, trade or international affairs and that have been introduced "by request". 
   - `unified_cong`: (binary) congress-level covariate indicating whether the same party has the majority in both chambers (`=1`).
   - `nomgrid`: (numeric) [Gray and Jenkings's (2017)](https://www.cambridge.org/core/journals/journal-of-public-policy/article/pivotal-politics-and-the-ideological-content-of-landmark-laws/F4E72D32E886045889EED124866643C7) Gridlock Interval measure.
+  - `Cosponsr_log`: (numeric) the log of the number of co-sponsors of the bill.
+  - `all_vers`: (string) -_only available for hitchhiker bills_- all versions of the bill (e.g. `IH;RH:EH`)
+  - `last_vers`: (string) -_only available for hitchhiker bills_- the last version of the bill (e.g. `EH`)
+  - `last_vers_generic`: (string) -_only available for hitchhiker bills_- a generic way of indicating the last version of a given bill (e.g. IH and IS bills become `introduced`).
+  
+## Code
+The `./code/` directory contains separate scripts to replicate each analytical figure of the article.
+
+  - 
