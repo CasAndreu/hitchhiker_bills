@@ -37,8 +37,8 @@ plot_db <- db %>%
 
 # PLOT: Figure 2
 #===============================================================================
-#pdf("./figures/figure4_BW.pdf", width = 12, height = 5)
-png("./figures/figure4_BW.png", width = 1200, height = 500)
+#pdf("./figures/figure2_BW.pdf", width = 12, height = 5)
+png("./figures/figure2_BW.png", width = 1200, height = 500)
 ggplot(plot_db, aes(x = factor(Cong), fill = factor(outcome1))) +
   geom_bar(position = "dodge") +
   ylab("Number of bills") +

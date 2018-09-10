@@ -1,6 +1,6 @@
 #===============================================================================
 # 02-figure3-how-far-hitchhiker-get-on-their-own.R
-# Purpose: To replicate figure 3 of the paper, showing how far hitchhiker bills 
+# Purpose: To replicate figure 4 of the paper, showing how far hitchhiker bills 
 #          get though the legislative process on their own.
 # Article: "More Effective Than We Thought: Accounting for Legislative 
 #           Hitchhikers Reveals a More Inclusive and Productive Lawmaking 
@@ -19,12 +19,14 @@ library(grid)
 
 # DATA
 #===============================================================================
-db <- import("./data/how_far_inserted_bills_got.csv")
+db <- import("./data/main_db.csv")
 
 # DATA WRANGLIONG
 #===============================================================================
 # - making sure the last version generic naming is correct
 db_02 <- db %>%
+  filter(outcome1 == "insertion", ImpBill ==1, !is.na(last_vers)) %>%
+  mutate(BillChamber = ifelse(Chamber == 1, "S", "H")) %>%
   mutate(last_vers_generic = NA,
          last_vers_generic = ifelse(
            last_vers %in% c("IH", "IS"), "introduced", last_vers_generic),

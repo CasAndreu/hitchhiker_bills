@@ -192,8 +192,9 @@ full_marfx_to_plot <- full_marfx_to_plot %>%
 
 # PLOT: Figure 4
 #===============================================================================
-pdf("./ajps_RR_figures/model_nolaw_hitchhiker_MAIN_w_UNIFIED_GRIDLOCK-INTERVAL.pdf",
-    width = 10, height = 7)
+#pdf("./ajps_RR_figures/model_nolaw_hitchhiker_MAIN_w_UNIFIED_GRIDLOCK-INTERVAL.pdf",
+#    width = 10, height = 7)
+png("./figures/figure4-coefficient-plot.png", width = 1000, height = 700)
 ggplot(full_marfx_to_plot,
        aes(x = var, y = pe, ymin = lwr, ymax = upr)) +
   geom_pointrange(aes(shape = as.character(transf_coef)),
