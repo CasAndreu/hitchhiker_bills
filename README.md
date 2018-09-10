@@ -43,4 +43,5 @@ The `./data/` directory contains the main replication dataset: `main_db.csv`. Th
 ## Code
 The `./code/` directory contains separate scripts to replicate each analytical figure of the article.
 
-  - 
+  - [01-figure2-hitchhikers-versus-laws-by-congress-by-importantbill.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/01-figure2-hitchhikers-versus-laws-by-congress-by-importantbill.R): Code to replicate Figure 3 of the paper, showing the number of hitchhiker bills and laws By Congress, distinguishing between important and minor bills.
+  
