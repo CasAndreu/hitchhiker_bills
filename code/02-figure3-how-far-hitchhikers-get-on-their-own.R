@@ -7,7 +7,7 @@
 #           Process."
 # Journal: American Journal of Political Science
 # Year: 2018
-# Author: Andreu Casas, Matt Denny, and John
+# Authors: Andreu Casas, Matt Denny, and John Wilkerson
 #===============================================================================
 
 # PACKAGES
