@@ -40,6 +40,19 @@ The `./data/` directory contains the main replication dataset: `main_db.csv`. Th
   - `last_vers`: (string) -_only available for hitchhiker bills_- the last version of the bill (e.g. `EH`)
   - `last_vers_generic`: (string) -_only available for hitchhiker bills_- a generic way of indicating the last version of a given bill (e.g. IH and IS bills become `introduced`).
   
+The other secondary dataset are also included in the repository and are used to calculate new statistics:
+
+   - Committee assignment datasets from Charles Stewart III's website:   
+   
+    - house_assignments_103-115-3.xls
+    - senators_103-115-2.xls
+    
+   - Volden and Weisman LES datasets:
+   
+    - LEPData93to110Congresses.xlsx
+    - LEPData111to113Congresses.xlsx
+    
+  
 ## Code
 The `./code/` directory contains separate scripts to replicate each analytical figure of the article.
 
