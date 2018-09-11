@@ -1,0 +1,1332 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+
+103d CONGRESS
+  1st Session
+                                 H. R. 1
+
+       To grant family and temporary medical leave under certain 
+                             circumstances.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 5, 1993
+
+Mr. Ford of Michigan (for himself, Mr. Clay, Mr. Miller of California, 
+  Mr. Murphy, Mr. Kildee, Mr. Williams, Mr. Martinez, Mr. Owens, Mr. 
+Sawyer, Mr. Payne of New Jersey, Ms. Unsoeld, Ms. Mink, Mr. Andrews of 
+ New Jersey, Mr. Reed, Mr. Roemer, Mr. Engel, Mr. Becerra, Mr. Scott, 
+ Mr. Gene Green of Texas, Ms. Woolsey, Mr. Romero-Barcelo, Mr. Klink, 
+ Ms. English of Arizona, Mr. Strickland, Mrs. Schroeder, Mrs. Roukema, 
+ Ms. Snowe, Mr. Swett, Mr. Ford of Tennessee, Mr. Matsui, Mr. Bonior, 
+Mr. Sanders, Mrs. Kennelly, Mr. Gordon, and Mr. Weldon) introduced the 
+    following bill; which was referred jointly to the Committees on 
+     Education and Labor, Post Office and Civil Service, and House 
+                             Administration
+
+                            January 21, 1993
+
+    Additional sponsors: Mr. Gephardt, Mr. Ackerman, Mr. Bacchus of 
+    Florida, Mr. Baesler, Mr. Barrett of Wisconsin, Mr. Berman, Mr. 
+ Bilbray, Mr. Borski, Mr. Brown of California, Ms. Byrne, Mr. Chapman, 
+ Mr. Clyburn, Mr. Conyers, Mr. Costello, Mr. DeFazio, Ms. DeLauro, Mr. 
+Dellums, Mr. de Lugo, Ms. Eshoo, Mr. Espy, Mr. Faleomavaega, Mr. Fazio, 
+Mr. Flake, Mr. Foglietta, Mr. Frank of Massachusetts, Mr. Gibbons, Ms. 
+Harman, Mr. Hinchey, Mr. Holden, Mr. Hyde, Mr. Johnston of Florida, Mr. 
+   Kopetski, Mr. Lehman, Ms. Long, Mr. McCloskey, Mr. McDermott, Mr. 
+Machtley, Ms. Maloney, Mr. Manton, Mr. Markey, Mr. Mazzoli, Mr. Meehan, 
+   Mr. Mineta, Mrs. Morella, Mr. Murtha, Ms. Norton, Mr. Olver, Mr. 
+    Panetta, Mr. Pastor, Ms. Pelosi, Mr. Peterson of Minnesota, Mr. 
+Peterson of Florida, Mr. Pomeroy, Mr. Rahall, Mr. Reynolds, Ms. Schenk, 
+ Mr. Schumer, Mr. Shays, Mr. Stark, Mr. Studds, Mr. Stupak, Mr. Swift, 
+Mr. Vento, Mr. Washington, Mr. Waxman, Mr. Wise, Mr. Wynn, Ms. Brown of 
+   Florida, Mr. Blackwell, Mr. Dooley, Mr. Coleman, Mrs. Collins of 
+  Illinois, Mr. Evans, Mr. Fish, Mr. Levin, Ms. Molinari, Mr. Neal of 
+Massachusetts, Mr. Oberstar, Mr. Poshard, Mr. Sabo, Ms. Slaughter, Mr. 
+Smith of New Jersey, Ms. Waters, Mr. Wheat, Mr. Dixon, Mr. Serrano, Mr. 
+ Rangel, Mr. Pallone, Mr. Traficant, Mr. Cardin, Mr. Andrews of Maine, 
+ Mr. Sangmeister, Mr. Wilson, Mr. Edwards of California, Mr. Ravenel, 
+                      Mr. Kleczka, and Mr. Durbin
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+       To grant family and temporary medical leave under certain 
+                             circumstances.
+
+    Be it enacted by the Senate and House of Representa<gr-thn-eq>tives 
+of the United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Family and Medical 
+Leave Act of 1993''.
+    (b) Table of Contents.--The table of contents is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings and purposes.
+                TITLE I--GENERAL REQUIREMENTS FOR LEAVE
+
+Sec. 101. Definitions.
+Sec. 102. Leave requirement.
+Sec. 103. Certification.
+Sec. 104. Employment and benefits protection.
+Sec. 105. Prohibited acts.
+Sec. 106. Investigative authority.
+Sec. 107. Enforcement.
+Sec. 108. Special rules concerning employees of local educational 
+                            agencies.
+Sec. 109. Notice.
+Sec. 110. Regulations.
+              TITLE II--LEAVE FOR CIVIL SERVICE EMPLOYEES
+
+Sec. 201. Leave requirement.
+                     TITLE III--COMMISSION ON LEAVE
+
+Sec. 301. Establishment.
+Sec. 302. Duties.
+Sec. 303. Membership.
+Sec. 304. Compensation.
+Sec. 305. Powers.
+Sec. 306. Termination.
+                   TITLE IV--MISCELLANEOUS PROVISIONS
+
+Sec. 401. Effect on other laws.
+Sec. 402. Effect on existing employment benefits.
+Sec. 403. Encouragement of more generous leave policies.
+Sec. 404. Regulations.
+Sec. 405. Effective dates.
+              TITLE V--COVERAGE OF CONGRESSIONAL EMPLOYEES
+
+Sec. 501. Leave for certain Senate employees.
+Sec. 502. Leave for certain congressional employees.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--Congress finds that--
+            (1) the number of single-parent households and two-parent 
+        households in which the single parent or both parents work is 
+        increasing significantly;
+            (2) it is important for the development of children and the 
+        family unit that fathers and mothers be able to participate in 
+        early childrearing and the care of family members who have 
+        serious health conditions;
+            (3) the lack of employment policies to accommodate working 
+        parents can force individuals to choose between job security 
+        and parenting;
+            (4) there is inadequate job security for employees who have 
+        serious health conditions that prevent them from working for 
+        temporary periods;
+            (5) due to the nature of the roles of men and women in our 
+        society, the primary responsibility for family caretaking often 
+        falls on women, and such responsibility affects the working 
+        lives of women more than it affects the working lives of men; 
+        and
+            (6) employment standards that apply to one gender only have 
+        serious potential for encouraging employers to discriminate 
+        against employees and applicants for employment who are of that 
+        gender.
+    (b) Purposes.--It is the purpose of this Act--
+            (1) to balance the demands of the workplace with the needs 
+        of families, to promote the stability and economic security of 
+        families, and to promote national interests in preserving 
+        family integrity;
+            (2) to entitle employees to take reasonable leave for 
+        medical reasons, for the birth or adoption of a child, and for 
+        the care of a child, spouse, or parent who has a serious health 
+        condition;
+            (3) to accomplish the purposes described in paragraphs (1) 
+        and (2) in a manner that accommodates the legitimate interests 
+        of employers;
+            (4) to accomplish the purposes described in paragraphs (1) 
+        and (2) in a manner that, consistent with the Equal Protection 
+        Clause of the Fourteenth Amendment, minimizes the potential for 
+        employment discrimination on the basis of sex by ensuring 
+        generally that leave is available for eligible medical reasons 
+        (including maternity-related disability) and for compelling 
+        family reasons, on a gender-neutral basis; and
+            (5) to promote the goal of equal employment opportunity for 
+        women and men, pursuant to such clause.
+
+                TITLE I--GENERAL REQUIREMENTS FOR LEAVE
+
+SEC. 101. DEFINITIONS.
+
+    As used in this title:
+            (1) Commerce.--The terms ``commerce'' and ``industry or 
+        activity affecting commerce'' mean any activity, business, or 
+        industry in commerce or in which a labor dispute would hinder 
+        or obstruct commerce or the free flow of commerce, and include 
+        ``commerce'' and any ``industry affecting commerce'', as 
+        defined in paragraphs (1) and (3) of section 501 of the Labor 
+        Management Relations Act, 1947 (29 U.S.C. 142 (1) and (3)).
+            (2) Eligible employee.--
+                    (A) In general.--The term ``eligible employee'' 
+                means any ``employee'', as defined in section 3(e) of 
+                the Fair Labor Standards Act of 1938 (29 U.S.C. 
+                203(e)), who has been employed--
+                            (i) for at least 12 months by the employer 
+                        with respect to whom leave is requested under 
+                        section 102; and
+                            (ii) for at least 1,250 hours of service 
+                        with such employer during the previous 12-month 
+                        period.
+                    (B) Exclusions.--The term ``eligible employee'' 
+                does not include--
+                            (i) any Federal officer or employee covered 
+                        under subchapter V of chapter 63 of title 5, 
+                        United States Code (as added by title II of 
+                        this Act); or
+                            (ii) any employee of an employer who is 
+                        employed at a worksite at which such employer 
+                        employs less than 50 employees if the total 
+                        number of employees employed by that employer 
+                        within 75 miles of that worksite is less than 
+                        50.
+            (C) Determination.--For purposes of determining whether an 
+        employee meets the hours of service requirement specified in 
+        subparagraph (A)(ii), the legal standards established under 
+        section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 
+        207) shall apply.
+            (3) Employ; state.--The terms ``employ'' and ``State'' have 
+        the same meanings given such terms in subsections (c) and (g) 
+        of section 3 of the Fair Labor Standards Act of 1938 (29 U.S.C. 
+        203 (c) and (g)).
+            (4) Employee.--The term ``employee'' means any individual 
+        employed by an employer.
+            (5) Employer.--
+                    (A) In general.--The term ``employer''--
+                            (i) means any person engaged in commerce or 
+                        in any industry or activity affecting commerce 
+                        who employs 50 or more employees for each 
+                        working day during each of 20 or more calendar 
+                        workweeks in the current or preceding calendar 
+                        year;
+                            (ii) includes--
+                                    (I) any person who acts, directly 
+                                or indirectly, in the interest of an 
+                                employer to any of the employees of 
+                                such employer; and
+                                    (II) any successor in interest of 
+                                an employer; and
+                            (iii) includes any ``public agency'', as 
+                        defined in section 3(x) of the Fair Labor 
+                        Standards Act of 1938 (29 U.S.C. 203(x)).
+                    (B) Public agency.--For purposes of subparagraph 
+                (A)(iii), a public agency shall be considered to be a 
+                person engaged in commerce or in an industry or 
+                activity affecting commerce.
+            (6) Employment benefits.--The term ``employment benefits'' 
+        means all benefits provided or made available to employees by 
+        an employer, including group life insurance, health insurance, 
+        disability insurance, sick leave, annual leave, educational 
+        benefits, and pensions, regardless of whether such benefits are 
+        provided by a practice or written policy of an employer or 
+        through an ``employee benefit plan'', as defined in section 
+        3(3) of the Employee Retirement Income Security Act of 1974 (29 
+        U.S.C. 1002(3)).
+            (7) Health care provider.--The term ``health care 
+        provider'' means--
+                    (A) a doctor of medicine or osteopathy who is 
+                authorized to practice medicine or surgery (as 
+                appropriate) by the State in which the doctor 
+                practices; or
+                    (B) any other person determined by the Secretary to 
+                be capable of providing health care 
+                <gr-thn-eq>services.
+            (8) Parent.--The term ``parent'' means the biological 
+        parent of an employee or an individual who stood in loco 
+        parentis to an employee when the employee was a son or 
+        <gr-thn-eq>daughter.
+            (9) Person.--The term ``person'' has the same meaning given 
+        such term in section 3(a) of the Fair Labor Standards Act of 
+        1938 (29 U.S.C. 203(a)).
+            (10) Reduced leave schedule.--The term ``reduced leave 
+        schedule'' means leave that reduces the usual number of hours 
+        per workweek, or hours per workday, of an employee.
+            (11) Secretary.--The term ``Secretary'' means the Secretary 
+        of Labor.
+            (12) Serious health condition.--The term ``serious health 
+        condition'' means an illness, injury, <gr-thn-eq>impairment, or 
+        physical or mental condition that involves--
+                    (A) inpatient care in a hospital, hospice, or 
+                residential medical care facility; or
+                    (B) continuing treatment by a health care provider.
+            (13) Son or daughter.--The term ``son or daughter'' means a 
+        biological, adopted, or foster child, a stepchild, a legal 
+        ward, or a child of a person standing in loco parentis, who 
+        is--
+                    (A) under 18 years of age; or
+                    (B) 18 years of age or older and incapable of self-
+                care because of a mental or physical 
+                dis<gr-thn-eq>ability.
+
+SEC. 102. LEAVE REQUIREMENT.
+
+    (a) In General.--
+            (1) Entitlement to leave.--Subject to section 103, an 
+        eligible employee shall be entitled to a total of 12 workweeks 
+        of leave during any 12-month period for one or more of the 
+        following:
+                    (A) Because of the birth of a son or daughter of 
+                the employee and in order to care for such son or 
+                daughter.
+                    (B) Because of the placement of a son or daughter 
+                with the employee for adoption or foster care.
+                    (C) In order to care for the spouse, or a son, 
+                daughter, or parent, of the employee, if such spouse, 
+                son, daughter, or parent has a serious health 
+                condition.
+                    (D) Because of a serious health condition that 
+                makes the employee unable to perform the functions of 
+                the position of such employee.
+            (2) Expiration of entitlement.--The entitlement to leave 
+        under subparagraphs (A) and (B) of paragraph (1) for a birth or 
+        placement of a son or daughter shall expire at the end of the 
+        12-month period beginning on the date of such birth or 
+        placement.
+            (3) Intermittent leave.--
+                    (A) In general.--Leave under subparagraph (A) or 
+                (B) of paragraph (1) shall not be taken by an employee 
+                intermittently unless the em<gr-thn-eq>ployee and the 
+                employer of the employee agree otherwise. Subject to 
+                subparagraph (B), subsection (e)(2), and section 
+                103(b)(5), leave under subparagraph (C) or (D) of 
+                paragraph (1) may be taken intermittently when 
+                medically necessary.
+                    (B) Alternative position.--If an employee requests 
+                intermittent leave under subparagraph (C) or (D) of 
+                paragraph (1) that is foreseeable based on planned 
+                medical treatment, the employer may require such 
+                employee to transfer temporarily to an available 
+                alternative position offered by the employer for which 
+                the employee is qualified and that--
+                            (i) has equivalent pay and benefits; and
+                            (ii) better accommodates recurring periods 
+                        of leave than the regular employment position 
+                        of the employee.
+    (b) Reduced Leave.--On agreement between the employer and the 
+employee, leave under subsection (a) may be taken on a reduced leave 
+schedule. Such reduced leave schedule shall not result in a reduction 
+in the total amount of leave to which the employee is entitled under 
+subsection (a) beyond the amount of leave actually taken.
+    (c) Unpaid Leave Permitted.--Except as provided in subsection (d), 
+leave granted under subsection (a) may consist of unpaid leave.
+    (d) Relationship to Paid Leave.--
+            (1) Unpaid leave.--If an employer provides paid leave for 
+        fewer than 12 workweeks, the additional weeks of leave 
+        necessary to attain the 12 workweeks of leave required under 
+        this title may be provided without compensation.
+            (2) Substitution of paid leave.--
+                    (A) In general.--An eligible employee may elect, or 
+                an employer may require the employee, to substitute any 
+                of the accrued paid vacation leave, personal leave, or 
+                family leave of the employee for leave provided under 
+                subparagraph (A), (B), or (C) of subsection (a)(1) for 
+                any part of the 12-week period of such leave under such 
+                subsection.
+                    (B) Serious health condition.--An eligible employee 
+                may elect, or an employer may require the employee, to 
+                substitute any of the accrued paid vacation leave, 
+                personal leave, or medical or sick leave of the 
+                employee for leave provided under subparagraph (C) or 
+                (D) of subsection (a)(1) for any part of the 12-week 
+                period of such leave under such subsection, except that 
+                nothing in this title shall require an employer to 
+                provide paid sick leave or paid medical leave in any 
+                situation in which such employer would not normally 
+                provide any such paid leave.
+    (e) Foreseeable Leave.--
+            (1) Requirement of notice.--In any case in which the 
+        necessity for leave under subparagraph (A) or (B) of subsection 
+        (a)(1) is foreseeable based on an expected birth or adoption, 
+        the employee shall provide the employer with not less than 30 
+        days' notice, before the date the leave is to begin, of the 
+        employee's intention to take leave under such subparagraph, 
+        except that if the date of the birth or adoption requires leave 
+        to begin in less than 30 days, the employee shall provide such 
+        notice as is practicable.
+            (2) Duties of employee.--In any case in which the necessity 
+        for leave under subparagraph (C) or (D) of subsection (a)(1) is 
+        foreseeable based on planned medical treatment, the 
+        em<gr-thn-eq>ployee--
+                    (A) shall make a reasonable effort to schedule the 
+                treatment so as not to disrupt unduly the operations of 
+                the employer, subject to the approval of the health 
+                care provider of the employee or the health care 
+                provider of the son, daughter, spouse, or parent of the 
+                employee, as appropriate; and
+                    (B) shall provide the employer with not less than 
+                30 days' notice, before the date the leave is to begin, 
+                of the employee's intention to take leave under such 
+                subparagraph, except that if the date of the treatment 
+                requires leave to begin in less than 30 days, the 
+                employee shall provide such notice as is practicable.
+    (f) Spouses Employed by the Same Employer.--In any case in which a 
+husband and wife entitled to leave under subsection (a) are employed by 
+the same employer, the aggregate number of workweeks of leave to which 
+both may be entitled may be limited to 12 workweeks during any 12-month 
+period, if such leave is taken--
+            (1) under subparagraph (A) or (B) of subsection (a)(1); or
+            (2) to care for a sick parent under subparagraph (C) of 
+        such subsection.
+
+SEC. 103. CERTIFICATION.
+
+    (a) In General.--An employer may require that a request for leave 
+under subparagraph (C) or (D) of section 102(a)(1) be supported by a 
+certification issued by the health care provider of the eligible 
+employee or of the son, daughter, spouse, or parent of the employee, as 
+appropriate. The employee shall provide, in a timely manner, a copy of 
+such certification to the <gr-thn-eq>employer.
+    (b) Sufficient Certification.--Certification provided under 
+subsection (a) shall be sufficient if it states--
+            (1) the date on which the serious health condition 
+        commenced;
+            (2) the probable duration of the condition;
+            (3) the appropriate medical facts within the knowledge of 
+        the health care provider regarding the condition;
+            (4)(A) for purposes of leave under section 102(a)(1)(C), a 
+        statement that the eligible employee is needed to care for the 
+        son, daughter, spouse, or parent and an estimate of the amount 
+        of time that such employee is needed to care for the son, 
+        daughter, spouse, or parent; and
+            (B) for purposes of leave under section 102(a)(1)(D), a 
+        statement that the employee is unable to perform the functions 
+        of the position of the em<gr-thn-eq>ployee; and
+            (5) in the case of certification for intermittent leave for 
+        planned medical treatment, the dates on which such treatment is 
+        expected to be given and the duration of such treatment.
+    (c) Second Opinion.--
+            (1) In general.--In any case in which the employer has 
+        reason to doubt the validity of the certification provided 
+        under subsection (a) for leave under subparagraph (C) or (D) of 
+        section 102(a)(1), the employer may require, at the expense of 
+        the employer, that the eligible employee obtain the opinion of 
+        a second health care provider designated or approved by the 
+        employer concerning any information certified under subsection 
+        (b) for such leave.
+            (2) Limitation.--A health care provider designated or 
+        approved under paragraph (1) shall not be employed on a regular 
+        basis by the employer.
+    (d) Resolution of Conflicting Opinions.--
+            (1) In general.--In any case in which the second opinion 
+        described in subsection (c) differs from the opinion in the 
+        original certification provided under subsection (a), the 
+        employer may require, at the expense of the employer, that the 
+        employee obtain the opinion of a third health care provider 
+        designated or approved jointly by the employer and the employee 
+        concerning the information certified under subsection (b).
+            (2) Finality.--The opinion of the third health care 
+        provider concerning the information certified under subsection 
+        (b) shall be considered to be final and shall be binding on the 
+        employer and the em<gr-thn-eq>ployee.
+    (e) Subsequent Recertification.--The employer may require that the 
+eligible employee obtain subsequent recertifications on a reasonable 
+basis.
+
+SEC. 104. EMPLOYMENT AND BENEFITS PROTECTION.
+
+    (a) Restoration to Position.--
+            (1) In general.--Except as provided in subsection (b), any 
+        eligible employee who takes leave under section 102 for the 
+        intended purpose of the leave shall be entitled, on return from 
+        such leave--
+                    (A) to be restored by the employer to the position 
+                of employment held by the employee when the leave 
+                commenced; or
+                    (B) to be restored to an equivalent position with 
+                equivalent employment benefits, pay, and other terms 
+                and conditions of employment.
+            (2) Loss of benefits.--The taking of leave under section 
+        102 shall not result in the loss of any employment benefit 
+        accrued prior to the date on which the leave commenced.
+            (3) Limitations.--Nothing in this section shall be 
+        construed to entitle any restored employee to--
+                    (A) the accrual of any seniority or employment 
+                benefits during any period of leave; or
+                    (B) any right, benefit, or position of employment 
+                other than any right, benefit, or position to which the 
+                employee would have been entitled had the employee not 
+                taken the leave.
+            (4) Certification.--As a condition of restoration under 
+        paragraph (1) for an employee who has taken leave under section 
+        102(a)(1)(D), the employer may have a uniformly applied 
+        practice or policy that requires each such employee to receive 
+        certification from the health care provider of the employee 
+        that the employee is able to resume work, except that nothing 
+        in this paragraph shall supersede a valid State or local law or 
+        a collective bargaining agreement that governs the return to 
+        work of such employees.
+            (5) Construction.--Nothing in this subsection shall be 
+        construed to prohibit an employer from requiring an employee on 
+        leave under section 102 to report periodically to the employer 
+        on the status and intention of the employee to return to work.
+    (b) Exemption Concerning Certain Highly Compensated Employees.--
+            (1) Denial of restoration.--An employer may deny 
+        restoration under subsection (a) to any eligible employee 
+        described in paragraph (2) if--
+                    (A) such denial is necessary to prevent substantial 
+                and grievous economic injury to the operations of the 
+                employer;
+                    (B) the employer notifies the employee of the 
+                intent of the employer to deny restoration on such 
+                basis at the time the employer determines that such 
+                injury would occur; and
+                    (C) in any case in which the leave has commenced, 
+                the employee elects not to return to employment after 
+                receiving such notice.
+            (2) Affected employees.--An eligible employee described in 
+        paragraph (1) is a salaried eligible employee who is among the 
+        highest paid 10 percent of the employees employed by the 
+        employer within 75 miles of the facility at which the employee 
+        is employed.
+    (c) Maintenance of Health Benefits.--
+            (1) Coverage.--Except as provided in paragraph (2), during 
+        any period that an eligible employee takes leave under section 
+        102, the employer shall maintain coverage under any ``group 
+        health plan'' (as defined in section 5000(b)(1) of the Internal 
+        Revenue Code of 1986) for the duration of such leave at the 
+        level and under the conditions coverage would have been 
+        provided if the employee had continued in employment 
+        continuously from the date the employee commenced the leave 
+        until the date the employee is restored under subsection (a).
+            (2) Failure to return from leave.--The employer may recover 
+        the premium that the employer paid for maintaining coverage for 
+        the employee under such group health plan during any period of 
+        unpaid leave under section 102 if--
+                    (A) the employee fails to return from leave under 
+                section 102 after the period of leave to which the 
+                employee is entitled has expired; and
+                    (B) the employee fails to return to work for a 
+                reason other than--
+                            (i) the continuation, recurrence, or onset 
+                        of a serious health condition that entitles the 
+                        employee to leave under subparagraph (C) or (D) 
+                        of section 102(a)(1); or
+                            (ii) other circumstances beyond the control 
+                        of the employee.
+            (3) Certification.--
+                    (A) Issuance.--An employer may require that a claim 
+                that an employee is unable to return to work because of 
+                the continuation, recurrence, or onset of the serious 
+                health condition described in paragraph (2)(B)(i) be 
+                supported by--
+                            (i) a certification issued by the health 
+                        care provider of the son, daughter, spouse, or 
+                        parent of the employee, as appropriate, in the 
+                        case of an employee unable to return to work 
+                        because of a condition specified in section 
+                        102(a)(1)(C); or
+                            (ii) a certification issued by the health 
+                        care provider of the eligible employee, in the 
+                        case of an employee unable to return to work 
+                        because of a condition specified in section 
+                        102(a)(1)(D).
+                    (B) Copy.--The employee shall provide, in a timely 
+                manner, a copy of such certification to the employer.
+                    (C) Sufficiency of certification.--
+                            (i) Leave due to serious health condition 
+                        of employee.--The certification described in 
+                        subparagraph (A)(i) shall be sufficient if the 
+                        certification states that a serious health 
+                        condition prevented the employee from being 
+                        able to perform the functions of the position 
+                        of the employee on the date that the leave of 
+                        the employee expired.
+                            (ii) Leave due to serious health condition 
+                        of family member.--The certification described 
+                        in subparagraph (A)(ii) shall be sufficient if 
+                        the certification states that the employee is 
+                        needed to care for the son, daughter, spouse, 
+                        or parent who has a serious health condition on 
+                        the date that the leave of the employee 
+                        expired.
+
+SEC. 105. PROHIBITED ACTS.
+
+    (a) Interference With Rights.--
+            (1) Exercise of rights.--It shall be unlawful for any 
+        employer to interfere with, restrain, or deny the exercise of 
+        or the attempt to exercise, any right provided under this 
+        title.
+            (2) Discrimination.--It shall be unlawful for any employer 
+        to discharge or in any other manner discriminate against any 
+        individual for opposing any practice made unlawful by this 
+        title.
+    (b) Interference With Proceedings or Inquiries.--It shall be 
+unlawful for any person to discharge or in any other manner 
+discriminate against any individual because such individual--
+            (1) has filed any charge, or has instituted or caused to be 
+        instituted any proceeding, under or re<gr-thn-eq>lated to this 
+        title;
+            (2) has given, or is about to give, any information in 
+        connection with any inquiry or proceeding relating to any right 
+        provided under this title; or
+            (3) has testified, or is about to testify, in any inquiry 
+        or proceeding relating to any right provided under this title.
+
+SEC. 106. INVESTIGATIVE AUTHORITY.
+
+    (a) In General.--To ensure compliance with the provisions of this 
+title, or any regulation or order issued under this title, the 
+Secretary shall have, subject to subsection (c), the investigative 
+authority provided under section 11(a) of the Fair Labor Standards Act 
+of 1938 (29 U.S.C. 211(a)).
+    (b) Obligation To Keep and Preserve Records.--Any employer shall 
+keep and preserve records in accordance with section 11(c) of the Fair 
+Labor Standards Act of 1938 (29 U.S.C. 211(c)) and in accordance with 
+regulations issued by the Secretary.
+    (c) Required Submissions Generally Limited to an Annual Basis.--The 
+Secretary shall not under the authority of this section require any 
+employer or any plan, fund, or program to submit to the Secretary any 
+books or records more than once during any 12-month period, unless the 
+Secretary has reasonable cause to believe there may exist a violation 
+of this title or any regulation or order issued pursuant to this title, 
+or is investigating a charge pursuant to section 107(b).
+    (d) Subpoena Powers.--For the purposes of any investigation 
+provided for in this section, the Secretary shall have the subpoena 
+authority provided for under section 9 of the Fair Labor Standards Act 
+of 1938 (29 U.S.C. 209).
+
+SEC. 107. ENFORCEMENT.
+
+    (a) Civil Action by Employees.--
+            (1) Liability.--Any employer who violates section 105 shall 
+        be liable to any eligible employee affected--
+                    (A) for damages equal to--
+                            (i) the amount of--
+                                    (I) any wages, salary, employment 
+                                benefits, or other compensation denied 
+                                or lost to such employee by reason of 
+                                the violation; or
+                                    (II) in a case in which wages, 
+                                salary, employment benefits, or other 
+                                compensation have not been denied or 
+                                lost to the employee, any actual 
+                                monetary losses sustained by the 
+                                employee as a direct result of the 
+                                violation, such as the cost of 
+                                providing care, up to a sum equal to 12 
+                                weeks of wages or salary for the 
+                                employee;
+                            (ii) the interest on the amount described 
+                        in clause (i) calculated at the prevailing 
+                        rate; and
+                            (iii) an additional amount as liquidated 
+                        damages equal to the sum of the amount 
+                        described in clause (i) and the interest 
+                        described in clause (ii), except that if an 
+                        employer who has violated section 105 proves to 
+                        the satisfaction of the court that the act or 
+                        omission which violated section 105 was in good 
+                        faith and that the employer had reasonable 
+                        grounds for believing that the act or omission 
+                        was not a violation of section 105, such court 
+                        may, in the discretion of the court, reduce the 
+                        amount of the liability to the amount and 
+                        interest determined under clauses (i) and (ii), 
+                        respectively; and
+                    (B) for such equitable relief as may be 
+                appropriate, including, without limitation, employment, 
+                reinstatement, and promotion.
+            (2) Standing.--An action to recover the damages or 
+        equitable relief prescribed in paragraph (1) may be maintained 
+        against any employer (including a public agency) in any Federal 
+        or State court of competent jurisdiction by any one or more 
+        employees for and in behalf of--
+                    (A) the employees; or
+                    (B) the employees and other employees similarly 
+                situated.
+            (3) Fees and costs.--The court in such an action shall, in 
+        addition to any judgment awarded to the plaintiff, allow a 
+        reasonable attorney's fee, reasonable expert witness fees, and 
+        other costs of the action to be paid by the defendant.
+            (4) Limitations.--The right provided by paragraph (2) to 
+        bring an action by or on behalf of any employee shall 
+        terminate, unless such action is dismissed without prejudice on 
+        motion of the Secretary, on--
+                    (A) the filing of a complaint by the Secretary in 
+                an action under subsection (d) in which--
+                            (i) restraint is sought of any further 
+                        delay in the payment of the damages described 
+                        in paragraph (1)(A) to such employee by an 
+                        employer liable under paragraph (1) for the 
+                        damages; or
+                            (ii) equitable relief is sought as a result 
+                        of alleged violations of section 105; or
+                    (B) the filing of a complaint by the Secretary in 
+                an action under subsection (b) in which a recovery is 
+                sought of the damages described in paragraph (1)(A) 
+                owing to an eligible employee by an employer liable 
+                under paragraph (1).
+    (b) Action by the Secretary.--
+            (1) Administrative action.--The Secretary shall receive, 
+        investigate, and attempt to resolve complaints of violations of 
+        section 105 in the same manner that the Secretary receives, 
+        investigates, and attempts to resolve complaints of violations 
+        of sections 6 and 7 of the Fair Labor Standards Act of 1938 (29 
+        U.S.C. 206 and 207).
+            (2) Civil action.--The Secretary may bring an action in any 
+        court of competent jurisdiction to recover on behalf of an 
+        eligible employee the damages described in subsection 
+        (a)(1)(A).
+            (3) Sums recovered.--Any sums recovered by the Secretary on 
+        behalf of an employee pursuant to paragraph (2) shall be held 
+        in a special deposit account and shall be paid, on order of the 
+        Secretary, directly to each employee affected. Any such sums 
+        not paid to an employee because of inability to do so within a 
+        period of 3 years shall be deposited into the Treasury of the 
+        United States as miscellaneous receipts.
+    (c) Limitation.--
+            (1) In general.--Except as provided in paragraph (2), an 
+        action may be brought under subsection (a) or (b) not later 
+        than 2 years after the date of the last event constituting the 
+        alleged violation for which the action is brought.
+            (2) Willful violation.--In the case of such action brought 
+        for a willful violation of section 105, such action may be 
+        brought within 3 years of the date of the last event 
+        constituting the alleged violation for which such action is 
+        brought.
+            (3) Commencement.--In determining when an action is 
+        commenced by the Secretary under subsection (b) for the 
+        purposes of this subsection, it shall be considered to be 
+        commenced on the date when the complaint is filed.
+    (d) Action for Injunction by Secretary.--The district courts of the 
+United States shall have jurisdiction, for cause shown, over an action 
+brought by the Secretary to restrain violations of section 105, 
+including actions to restrain the withholding of payment of wages, 
+salary, employment benefits, or other compensation, plus interest, 
+found by the court to be due to eligible employees.
+
+SEC. 108. SPECIAL RULES CONCERNING EMPLOYEES OF LOCAL EDUCATIONAL 
+              AGENCIES.
+
+    (a) Application.--
+            (1) In general.--Except as otherwise provided in this 
+        section, the rights (including the rights under section 104, 
+        which shall extend throughout the period of leave of any 
+        employee under this section), remedies, and procedures under 
+        this title shall apply to--
+                    (A) any ``local educational agency'' (as defined in 
+                section 1471(12) of the Elementary and Secondary 
+                Education Act of 1965 (20 U.S.C. 2891(12))) and an 
+                eligible employee of the agency; and
+                    (B) any private elementary or secondary school and 
+                an eligible employee of the school.
+            (2)  Definitions.--For purposes of the application 
+        described in paragraph (1):
+                    (A) Eligible employee.--The term ``eligible 
+                employee'' means an eligible employee of an agency or 
+                school described in paragraph (1).
+                    (B) Employer.--The term ``employer'' means an 
+                agency or school described in paragraph (1).
+    (b) Leave Does Not Violate Certain Other Federal Laws.--A local 
+educational agency and a private elementary or secondary school shall 
+not be in violation of the Individuals with Disabilities Education Act 
+(20 U.S.C. 1400 et seq.), section 504 of the Rehabilitation Act of 1973 
+(29 U.S.C. 794), or title VI of the Civil Rights Act of 1964 (42 U.S.C. 
+2000d et seq.), solely as a result of an eligible employee of such 
+agency or school exercising the rights of such employee under this 
+title.
+    (c) Intermittent Leave for Instructional Employees.--
+            (1) In general.--Subject to paragraph (2), in any case in 
+        which an eligible employee employed principally in an 
+        instructional capacity by any such educational agency or school 
+        requests leave under subparagraph (C) or (D) of section 
+        102(a)(1) that is foreseeable based on planned medical 
+        treatment and the employee would be on leave for greater than 
+        20 percent of the total number of working days in the period 
+        during which the leave would extend, the agency or school may 
+        require that such employee elect either--
+                    (A) to take leave for periods of a particular 
+                duration, not to exceed the duration of the planned 
+                medical treatment; or
+                    (B) to transfer temporarily to an available 
+                alternative position offered by the employer for which 
+                the employee is qualified, and that--
+                            (i) has equivalent pay and benefits; and
+                            (ii) better accommodates recurring periods 
+                        of leave than the regular employment position 
+                        of the employee.
+            (2) Application.--The elections described in subparagraphs 
+        (A) and (B) of paragraph (1) shall apply only with respect to 
+        an eligible employee who complies with section 102(e)(2).
+    (d) Rules Applicable to Periods Near the Conclusion of an Academic 
+Term.--The following rules shall apply with respect to periods of leave 
+near the conclusion of an academic term in the case of any eligible 
+employee employed principally in an instructional capacity by any such 
+educational agency or school:
+            (1) Leave more than 5 weeks prior to end of term.--If the 
+        eligible employee begins leave under section 102 more than 5 
+        weeks prior to the end of the academic term, the agency or 
+        school may require the employee to continue taking leave until 
+        the end of such term, if--
+                    (A) the leave is of at least 3 weeks duration; and
+                    (B) the return to employment would occur during the 
+                3-week period before the end of such term.
+            (2) Leave less than 5 weeks prior to end of term.--If the 
+        eligible employee begins leave under subparagraph (A), (B), or 
+        (C) of section 102(a)(1) during the period that commences 5 
+        weeks prior to the end of the academic term, the agency or 
+        school may require the employee to continue taking leave until 
+        the end of such term, if--
+                    (A) the leave is of greater than 2 weeks duration; 
+                and
+                    (B) the return to employment would occur during the 
+                2-week period before the end of such term.
+            (3) Leave less than 3 weeks prior to end of term.--If the 
+        eligible employee begins leave under paragraph (A), (B), or (C) 
+        of section 102(a)(1) during the period that commences 3 weeks 
+        prior to the end of the academic term and the duration of the 
+        leave is greater than 5 working days, the agency or school may 
+        require the employee to continue to take leave until the end of 
+        such term.
+    (e) Restoration to Equivalent Employment Position.--For purposes of 
+determinations under section 104(a)(1)(B) (relating to the restoration 
+of an eligible employee to an equivalent position), in the case of a 
+local educational agency or a private elementary or secondary school, 
+such determination shall be made on the basis of established school 
+board policies and practices, private school policies and practices, 
+and collective bargaining agreements.
+    (f) Reduction of the Amount of Liability.--If a local educational 
+agency or a private elementary or secondary school that has violated 
+this title proves to the satisfaction of the administrative law judge 
+or the court that the agency, school, or department had reasonable 
+grounds for believing that the underlying act or omission was not a 
+violation of this title, such judge or court may, in the discretion of 
+the judge or court, reduce the amount of the liability provided for 
+under section 107(a)(1)(A) to the amount and interest determined under 
+clauses (i) and (ii), respectively, of such section.
+
+SEC. 109. NOTICE.
+
+    (a) In General.--Each employer shall post and keep posted, in 
+conspicuous places on the premises of the employer where notices to 
+employees and applicants for employment are customarily posted, a 
+notice, to be prepared or approved by the Secretary, setting forth 
+excerpts from, or summaries of, the pertinent provisions of this title 
+and information pertaining to the filing of a charge.
+    (b) Penalty.--Any employer that willfully violates this section 
+shall be assessed a civil money penalty not to exceed $100 for each 
+separate offense.
+
+SEC. 110. REGULATIONS.
+
+    Not later than 60 days after the date of enactment of this title, 
+the Secretary shall prescribe such regulations as are necessary to 
+carry out this title.
+
+              TITLE II--LEAVE FOR CIVIL SERVICE EMPLOYEES
+
+SEC. 201. LEAVE REQUIREMENT.
+
+    (a) Civil Service Employees.--
+            (1) In general.--Chapter 63 of title 5, United States Code, 
+        is amended by adding at the end the following new subchapter:
+
+                ``SUBCHAPTER V--FAMILY AND MEDICAL LEAVE
+
+``Sec. 6381. Definitions
+    ``For the purpose of this subchapter--
+            ``(1) the term `employee' means any individual who--
+                    ``(A) is an `employee', as defined by section 
+                6301(2), including any individual employed in a 
+                position referred to in clause (v) or (ix) of section 
+                6301(2), but excluding any individual employed by the 
+                government of the District of Columbia and any 
+                individual employed on a temporary or intermittent 
+                basis; and
+                    ``(B) has completed at least 12 months of service 
+                as an employee (within the meaning of subparagraph 
+                (A));
+            ``(2) the term `health care provider' means--
+                    ``(A) a doctor of medicine or osteopathy who is 
+                authorized to practice medicine or surgery (as 
+                appropriate) by the State in which the doctor 
+                practices; and
+                    ``(B) any other person determined by the Director 
+                of the Office of Personnel Management to be capable of 
+                providing health care services;
+            ``(3) the term `parent' means the biological parent of an 
+        employee or an individual who stood in loco parentis to an 
+        employee when the employee was a son or daughter;
+            ``(4) the term `reduced leave schedule' means leave that 
+        reduces the usual number of hours per workweek, or hours per 
+        workday, of an employee;
+            ``(5) the term `serious health condition' means an illness, 
+        injury, impairment, or physical or mental condition that 
+        involves--
+                    ``(A) inpatient care in a hospital, hospice, or 
+                residential medical care facility; or
+                    ``(B) continuing treatment by a health care 
+                provider; and
+            ``(6) the term `son or daughter' means a biological, 
+        adopted, or foster child, a stepchild, a legal ward, or a child 
+        of a person standing in loco parentis, who is--
+                    ``(A) under 18 years of age; or
+                    ``(B) 18 years of age or older and incapable of 
+                self-care because of a mental or physical disability.
+``Sec. 6382. Leave requirement
+    ``(a)(1) Subject to section 6383, an employee shall be entitled to 
+a total of 12 administrative workweeks of leave during any 12-month 
+period for one or more of the following:
+            ``(A) Because of the birth of a son or daughter of the 
+        employee and in order to care for such son or daughter.
+            ``(B) Because of the placement of a son or daughter with 
+        the employee for adoption or foster care.
+            ``(C) In order to care for the spouse, or a son, daughter, 
+        or parent, of the employee, if such spouse, son, daughter, or 
+        parent has a serious health condition.
+            ``(D) Because of a serious health condition that makes the 
+        employee unable to perform the functions of the employee's 
+        position.
+    ``(2) The entitlement to leave under subparagraph (A) or (B) of 
+paragraph (1) based on the birth or placement of a son or daughter 
+shall expire at the end of the 12-month period beginning on the date of 
+such birth or placement.
+    ``(3)(A) Leave under subparagraph (A) or (B) of paragraph (1) shall 
+not be taken by an employee intermittently unless the employee and the 
+employing agency of the employee agree otherwise. Subject to 
+subparagraph (B), subsection (e)(2), and section 6383(b)(5), leave 
+under subparagraph (C) or (D) of paragraph (1) may be taken 
+intermittently when medically necessary.
+    ``(B) If an employee requests intermittent leave under subparagraph 
+(C) or (D) of paragraph (1) that is foreseeable based on planned 
+medical treatment, the employing agency may require such employee to 
+transfer temporarily to an available alternative position offered by 
+the employing agency for which the employee is qualified and that--
+            ``(i) has equivalent pay and benefits; and
+            ``(ii) better accommodates recurring periods of leave than 
+        the regular employment position of the employee.
+    ``(b) On agreement between the employing agency and the employee, 
+leave under subsection (a) may be taken on a reduced leave schedule. In 
+the case of an employee on a reduced leave schedule, any hours of leave 
+taken by such employee under such schedule shall be subtracted from the 
+total amount of leave remaining available to such employee under 
+subsection (a), for purposes of the 12-month period involved, on an 
+hour-for-hour basis.
+    ``(c) Except as provided in subsection (d), leave granted under 
+subsection (a) shall be leave without pay.
+    ``(d) An employee may elect to substitute for leave under 
+subparagraph (A), (B), (C), or (D) of subsection (a)(1) any of the 
+employee's accrued or accumulated annual or sick leave under subchapter 
+I for any part of the 12-week period of leave under such subsection, 
+except that nothing in this subchapter shall require an employing 
+agency to provide paid sick leave in any situation in which such 
+employing agency would not normally provide any such paid leave.
+    ``(e)(1) In any case in which the necessity for leave under 
+subparagraph (A) or (B) of subsection (a)(1) is foreseeable based on an 
+expected birth or placement, the employee shall provide the employing 
+agency with not less than 30 days' notice, before the date the leave is 
+to begin, of the employee's intention to take leave under such 
+subparagraph, except that if the date of the birth or adoption requires 
+leave to begin in less than 30 days, the employee shall provide such 
+notice as is practicable.
+    ``(2) In any case in which the necessity for leave under 
+subparagraph (C) or (D) of subsection (a)(1) is foreseeable based on 
+planned medical treatment, the employee--
+            ``(A) shall make a reasonable effort to schedule the 
+        treatment so as not to disrupt unduly the operations of the 
+        employing agency, subject to the approval of the health care 
+        provider of the employee or the health care provider of the 
+        son, daughter, spouse, or parent of the employee; and
+            ``(B) shall provide the employing agency with not less than 
+        30 days' notice, before the date the leave is to begin, of the 
+        employee's intention to take leave under such subparagraph, 
+        except that if the date of the treatment requires leave to 
+        begin in less than 30 days, the employee shall provide such 
+        notice as is practicable.
+``Sec. 6383. Certification
+    ``(a) An employing agency may require that a request for leave 
+under subparagraph (C) or (D) of section 6382(a)(1) be supported by 
+certification issued by the health care provider of the employee or of 
+the son, daughter, spouse, or parent of the employee, as appropriate. 
+The employee shall provide, in a timely manner, a copy of such 
+certification to the employing agency.
+    ``(b) A certification provided under subsection (a) shall be 
+sufficient if it states--
+            ``(1) the date on which the serious health condition 
+        commenced;
+            ``(2) the probable duration of the condition;
+            ``(3) the appropriate medical facts within the knowledge of 
+        the health care provider regarding the condition;
+            ``(4)(A) for purposes of leave under section 6382(a)(1)(C), 
+        a statement that the employee is needed to care for the son, 
+        daughter, spouse, or parent, and an estimate of the amount of 
+        time that such employee is needed to care for such son, 
+        daughter, spouse, or parent; and
+            ``(B) for purposes of leave under section 6382(a)(1)(D), a 
+        statement that the employee is unable to perform the functions 
+        of the position of the employee; and
+            ``(5) in the case of certification for intermittent leave 
+        for planned medical treatment, the dates on which such 
+        treatment is expected to be given and the duration of such 
+        treatment.
+    ``(c)(1) In any case in which the employing agency has reason to 
+doubt the validity of the certification provided under subsection (a) 
+for leave under subparagraph (C) or (D) of section 6382(a)(1), the 
+employing agency may require, at the expense of the agency, that the 
+employee obtain the opinion of a second health care provider designated 
+or approved by the employing agency concerning any information 
+certified under subsection (b) for such leave.
+    ``(2) Any health care provider designated or approved under 
+paragraph (1) shall not be employed on a regular basis by the employing 
+agency.
+    ``(d)(1) In any case in which the second opinion described in 
+subsection (c) differs from the original certification provided under 
+subsection (a), the employing agency may require, at the expense of the 
+agency, that the employee obtain the opinion of a third health care 
+provider designated or approved jointly by the employing agency and the 
+employee concerning the information certified under subsection (b).
+    ``(2) The opinion of the third health care provider concerning the 
+information certified under subsection (b) shall be considered to be 
+final and shall be binding on the employing agency and the employee.
+    ``(e) The employing agency may require, at the expense of the 
+agency, that the employee obtain subsequent recertifications on a 
+reasonable basis.
+``Sec. 6384. Employment and benefits protection
+    ``(a) Any employee who takes leave under section 6382 for the 
+intended purpose of the leave shall be entitled, upon return from such 
+leave--
+            ``(1) to be restored by the employing agency to the 
+        position held by the employee when the leave commenced; or
+            ``(2) to be restored to an equivalent position with 
+        equivalent benefits, pay, status, and other terms and 
+        conditions of employment.
+    ``(b) The taking of leave under section 6382 shall not result in 
+the loss of any employment benefit accrued prior to the date on which 
+the leave commenced.
+    ``(c) Except as otherwise provided by or under law, nothing in this 
+section shall be construed to entitle any restored employee to--
+            ``(1) the accrual of any seniority or employment benefits 
+        during any period of leave; or
+            ``(2) any right, benefit, or position of employment other 
+        than any right, benefit, or position to which the employee 
+        would have been entitled had the employee not taken the leave.
+    ``(d) As a condition to restoration under subsection (a) for an 
+employee who takes leave under section 6382(a)(1)(D), the employing 
+agency may have a uniformly applied practice or policy that requires 
+each employee to receive certification from the health care provider of 
+the employee that the employee is able to resume work.
+    ``(e) Nothing in this section shall be construed to prohibit an 
+employing agency from requiring an employee on leave under section 6382 
+to report periodically to the employing agency on the status and 
+intention of the employee to return to work.
+``Sec. 6385. Prohibition of coercion
+    ``(a) An employee shall not directly or indirectly intimidate, 
+threaten, or coerce, or attempt to intimidate, threaten, or coerce, any 
+other employee for the purpose of interfering with the exercise of any 
+rights which such other employee may have under this subchapter.
+    ``(b) For the purpose of this section--
+            ``(1) the term `intimidate, threaten, or coerce' includes 
+        promising to confer or conferring any benefit (such as 
+        appointment, promotion, or compensation), or taking or 
+        threatening to take any reprisal (such as deprivation of 
+        appointment, promotion, or compensation); and
+            ``(2) the term `employee' means any `employee', as defined 
+        by section 2105.
+``Sec. 6386. Health insurance
+    ``An employee enrolled in a health benefits plan under chapter 89 
+who is placed in a leave status under section 6382 may elect to 
+continue the health benefits enrollment of the employee while in such 
+leave status and arrange to pay currently into the Employees Health 
+Benefits Fund (described in section 8909), the appropriate employee 
+contributions.
+``Sec. 6387. Regulations
+    ``The Office of Personnel Management shall prescribe regulations 
+necessary for the administration of this subchapter. The regulations 
+prescribed under this subchapter shall, to the extent appropriate, be 
+consistent with the regulations prescribed by the Secretary of Labor 
+under title I of the Family and Medical Leave Act of 1993.''.
+            (2) Table of contents.--The table of contents for chapter 
+        63 of title 5, United States Code, is amended by adding at the 
+        end the following:
+
+                ``SUBCHAPTER V--FAMILY AND MEDICAL LEAVE
+
+``6381. Definitions.
+``6382. Leave requirement.
+``6383. Certification.
+``6384. Employment and benefits protection.
+``6385. Prohibition of coercion.
+``6386. Health insurance.
+``6387. Regulations.''.
+    (b) Employees Paid From Nonappropriated Funds.--Section 2105(c)(1) 
+of title 5, United States Code, is amended--
+            (1) by striking ``or'' at the end of subparagraph (C); and
+            (2) by adding at the end the following new subparagraph:
+                    ``(E) subchapter V of chapter 63, which shall be 
+                applied so as to construe references to benefit 
+                programs to refer to applicable programs for employees 
+                paid from nonappropriated funds; or''.
+
+                     TITLE III--COMMISSION ON LEAVE
+
+SEC. 301. ESTABLISHMENT.
+
+    There is established a commission to be known as the Commission on 
+Leave (hereinafter referred to in this title as the ``Commission'').
+
+SEC. 302. DUTIES.
+
+    The Commission shall--
+            (1) conduct a comprehensive study of--
+                    (A) existing and proposed policies relating to 
+                leave;
+                    (B) the potential costs, benefits, and impact on 
+                productivity of such policies on employers; and
+                    (C) alternative and equivalent State enforcement of 
+                title I of this Act with respect to employees described 
+                in section 108(a); and
+            (2) not later than 2 years after the date on which the 
+        Commission first meets, prepare and submit, to the appropriate 
+        Committees of Congress, a report concerning the subjects listed 
+        in paragraph (1).
+
+SEC. 303. MEMBERSHIP.
+
+    (a) Composition.--
+            (1) Appointments.--The Commission shall be composed of 12 
+        voting members and 2 ex officio members to be appointed not 
+        later than 60 days after the date of the enactment of this Act 
+        as <gr-thn-eq>follows:
+                    (A) Senators.--One Senator shall be appointed by 
+                the Majority Leader of the Senate, and one Senator 
+                shall be appointed by the Minority Leader of the 
+                Senate.
+                    (B) Members of house of representatives.--One 
+                Member of the House of Representatives shall be 
+                appointed by the Speaker of the House of 
+                Representatives, and one Member of the House of 
+                Representatives shall be appointed by the Minority 
+                Leader of the House of Representatives.
+                    (C) Additional members.--
+                            (i) Appointment.--Two Members each shall be 
+                        appointed by--
+                                    (I) the Speaker of the House of 
+                                Representatives;
+                                    (II) the Majority Leader of the 
+                                Senate;
+                                    (III) the Minority Leader of the 
+                                House of Representatives; and
+                                    (IV) the Minority Leader of the 
+                                Senate.
+                            (ii) Expertise.--Such members shall be 
+                        appointed by virtue of demonstrated expertise 
+                        in relevant family, temporary disability, and 
+                        labor-management issues and shall include 
+                        representatives of employers.
+            (2) Ex officio members.--The Secretary of Health and Human 
+        Services and the Secretary of Labor shall serve on the 
+        Commission as nonvoting ex officio members.
+    (b) Vacancies.--Any vacancy on the Commission shall be filled in 
+the manner in which the original appointment was made. The vacancy 
+shall not affect the power of the remaining members to execute the 
+duties of the Commission.
+    (c) Chairperson and Vice Chairperson.--The Commission shall elect a 
+chairperson and a vice chairperson from among the members of the 
+Commission.
+    (d) Quorum.--Eight members of the Commission shall constitute a 
+quorum for all purposes, except that a lesser number may constitute a 
+quorum for the purpose of holding hearings.
+
+SEC. 304. COMPENSATION.
+
+    (a) Pay.--Members of the Commission shall serve without 
+compensation.
+    (b) Travel Expenses.--Members of the Commission shall be allowed 
+reasonable travel expenses, including a per diem allowance, in 
+accordance with section 5703 of title 5, United States Code, when 
+performing duties of the <gr-thn-eq>Commission.
+
+SEC. 305. POWERS.
+
+    (a) Meetings.--The Commission shall first meet not later than 30 
+days after the date on which all members are appointed, and the 
+Commission shall meet thereafter on the call of the chairperson or a 
+majority of the members.
+    (b) Hearings and Sessions.--The Commission may hold such hearings, 
+sit and act at such times and places, take such testimony, and receive 
+such evidence as the Commission considers appropriate. The Commission 
+may administer oaths or affirmations to witnesses appearing before it.
+    (c) Access to Information.--The Commission may secure directly from 
+any Federal agency information necessary to enable it to carry out this 
+title, if the information may be disclosed under section 552 of title 
+5, United States Code. Subject to the previous sentence, on the request 
+of the chairperson or vice chairperson of the Commission, the head of 
+such agency shall furnish such information to the 
+Com<gr-thn-eq>mission.
+    (d) Executive Director.--The Commission may appoint an Executive 
+Director from the personnel of any Federal agency to assist the 
+Commission in carrying out the duties of the Commission. Any 
+appointment shall not interrupt or otherwise affect the civil service 
+status or privileges of the employee appointed.
+    (e) Use of Facilities and Services.--Upon the request of the 
+Commission, the head of any Federal agency may make available to the 
+Commission any of the facilities and services of such agency.
+    (f) Personnel From Other Agencies.--On the request of the 
+Commission, the head of any Federal agency may detail any of the 
+personnel of such agency to assist the Commission in carrying out the 
+duties of the Commission. Any detail shall not interrupt or otherwise 
+affect the civil service status or privileges of the Federal employee.
+    (g) Voluntary Service.--Notwithstanding section 1342 of title 31, 
+United States Code, the chairperson of the Commission may accept for 
+the Commission voluntary services provided by a member of the 
+Commission.
+
+SEC. 306. TERMINATION.
+
+    The Commission shall terminate 30 days after the date of the 
+submission of the report of the Commission to Congress.
+
+                   TITLE IV--MISCELLANEOUS PROVISIONS
+
+SEC. 401. EFFECT ON OTHER LAWS.
+
+    (a) Federal and State Antidiscrimination Laws.--Nothing in this Act 
+or any amendment made by this Act shall be construed to modify or 
+affect any Federal or State law prohibiting discrimination on the basis 
+of race, religion, color, national origin, sex, age, or disability.
+    (b) State and Local Laws.--Nothing in this Act or any amendment 
+made by this Act shall be construed to supersede any provision of any 
+State and local law that provides greater employee leave rights than 
+the rights established under this Act or any amendment made by this 
+Act.
+
+SEC. 402. EFFECT ON EXISTING EMPLOYMENT BENEFITS.
+
+    (a) More Protective.--Nothing in this Act or any amendment made by 
+this Act shall be construed to diminish the obligation of an employer 
+to comply with any collective bargaining agreement or any employment 
+benefit program or plan that provides greater family and medical leave 
+rights to employees than the rights provided under this Act or any 
+amendment made by this Act.
+    (b) Less Protective.--The rights provided to employees under this 
+Act or any amendment made by this Act shall not be diminished by any 
+collective bargaining agreement or any employment benefit program or 
+plan.
+
+SEC. 403. ENCOURAGEMENT OF MORE GENEROUS LEAVE POLICIES.
+
+    Nothing in this Act or any amendment made by this Act shall be 
+construed to discourage employers from adopting or retaining leave 
+policies more generous than any policies that comply with the 
+requirements under this Act or any amendment made by this Act.
+
+SEC. 404. REGULATIONS.
+
+    The Secretary of Labor shall prescribe such regulations as are 
+necessary to carry out sections 401 through 403 not later than 60 days 
+after the date of the enactment of this Act.
+
+SEC. 405. EFFECTIVE DATES.
+
+    (a) Title III.--Title III shall take effect on the date of the 
+enactment of this Act.
+    (b) Other Titles.--
+            (1) In general.--Except as provided in paragraph (2), 
+        titles I, II, and V and this title shall take effect 6 months 
+        after the date of the enactment of this Act.
+            (2) Collective bargaining agreements.--In the case of a 
+        collective bargaining agreement in effect on the effective date 
+        prescribed by paragraph (1), title I shall apply on the earlier 
+        of--
+                    (A) the date of the termination of such agreement; 
+                or
+                    (B) the date that occurs 12 months after the date 
+                of the enactment of this Act.
+
+              TITLE V--COVERAGE OF CONGRESSIONAL EMPLOYEES
+
+SEC. 501. LEAVE FOR CERTAIN SENATE EMPLOYEES.
+
+    (a) Coverage.--The rights and protections established under 
+sections 101 through 105 shall apply with respect to a Senate employee 
+and an employing office. For purposes of such application, the term 
+``eligible employee'' means a Senate employee and the term ``employer'' 
+means an employing office.
+    (b) Consideration of Allegations.--
+            (1) Applicable provisions.--The provisions of sections 304 
+        through 313 of the Government Employee Rights Act of 1991 (2 
+        U.S.C. 1204-1213) shall, except as provided in subsections (d) 
+        and (e)--
+                    (A) apply with respect to an allegation of a 
+                violation of a provision of sections 101 through 105, 
+                with respect to Senate employment of a Senate employee; 
+                and
+                    (B) apply to such an allegation in the same manner 
+                and to the same extent as such sections of the 
+                Government Employee Rights Act of 1991 apply with 
+                respect to an allegation of a violation under such Act.
+            (2) Entity.--Such an allegation shall be addressed by the 
+        Office of Senate Fair Employment Practices or such other entity 
+        as the Senate may designate.
+    (c) Rights of Employees.--The Office of Senate Fair Employment 
+Practices shall ensure that Senate employees are informed of their 
+rights under sections 101 through 105.
+    (d) Limitations.--A request for counseling under section 305 of 
+such Act by a Senate employee alleging a violation of a provision of 
+sections 101 through 105 shall be made not later than 2 years after the 
+date of the last event constituting the alleged violation for which the 
+counseling is requested, or not later than 3 years after such date in 
+the case of a willful violation of section 105.
+    (e) Applicable Remedies.--The remedies applicable to individuals 
+who demonstrate a violation of a provision of sections 101 through 105 
+shall be such remedies as would be appropriate if awarded under 
+paragraph (1) or (3) of section 107(a).
+    (f) Exercise of Rulemaking Power.--The provisions of subsections 
+(b), (c), (d), and (e), except as such subsections apply with respect 
+to section 309 of the Government Employee Rights Act of 1991 (2 U.S.C. 
+1209), are enacted by the Senate as an exercise of the rulemaking power 
+of the Senate, with full recognition of the right of the Senate to 
+change its rules, in the same manner, and to the same extent, as in the 
+case of any other rule of the Senate. No Senate employee may commence a 
+judicial proceeding with respect to an allegation described in 
+subsection (b)(1), except as provided in this section.
+    (g) Severability.--Notwithstanding any other provision of law, if 
+any provision of section 309 of the Government Employee Rights Act of 
+1991 (2 U.S.C. 1209) or of subsection (e) is invalidated, both such 
+section 309 and subsection (e) shall have no force and effect, and 
+shall be considered to be invalidated for purposes of section 322 of 
+such Act (2 U.S.C. 1221).
+    (h) Definitions.--As used in this section:
+            (1) Employing office.--The term ``employing office'' means 
+        the office with the final authority described in section 301(2) 
+        of such Act (2 U.S.C. 1201(2)).
+            (2) Senate employee.--The term ``Senate employee'' means an 
+        employee described in subparagraph (A) or (B) of section 
+        301(c)(1) of such Act (2 U.S.C. 1201(c)(1)) who has been 
+        employed for at least 12 months on other than a temporary or 
+        intermittent basis by any employing office.
+
+SEC. 502. LEAVE FOR CERTAIN CONGRESSIONAL EMPLOYEES.
+
+    (a) In General.--The rights and protections under sections 102 
+through 105 (other than section 104(b)) shall apply to any employee in 
+an employment position and any employing authority of the House of 
+Representatives.
+    (b) Administration.--In the administration of this section, the 
+remedies and procedures under the Fair Employment Practices Resolution 
+shall be applied.
+    (c) Definition.--As used in this section, the term ``Fair 
+Employment Practices Resolution'' means the resolution in rule LI of 
+the Rules of the House of Representatives.
+
+                                 <all>
