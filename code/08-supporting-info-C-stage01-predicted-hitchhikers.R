@@ -21,11 +21,11 @@ library(dplyr)
 # - loading a dataset with information about the hitchhikers predicted by the 
 #   99 high performing models in the first stage of the hitchhiker discovering 
 #   process.
-preds <- import("./data/hitchhiker_predictions_stage01.csv")
+preds <- import("./data/predictions/hitchhiker_predictions_stage01.csv")
 
 # PLOT: Figure 8, in Supporting Information C
 #===============================================================================
-png("./figures/hitchhikers_barplot_iter1.png", width = 1200, height = 500)
+png("./figures/figure8-hitchhikers_barplot_iter1.png", width = 1200, height = 500)
 ggplot(preds, aes(x = sum)) +
   geom_bar(color = blue, fill = blue) +
   scale_x_continuous(breaks = seq(1, 99, 7),

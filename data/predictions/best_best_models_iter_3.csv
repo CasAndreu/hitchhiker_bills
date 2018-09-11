@@ -1,0 +1,25 @@
+"model","precision_pe","recall_pe","fscore_pe","precision_lwr","precision_upr","recall_lwr","recall_upr","fscore_lwr","fscore_upr","mlabel","bill_law_matches","bill_mult_match"
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law",0.919,0.948,0.933,0.88,0.96,0.9,0.99,0.9,0.96,"nM26",590,10
+"y ~ twentygrams_bill_in_law + average_deletion_size",0.921,0.951,0.935,0.89,0.96,0.91,0.99,0.91,0.96,"nM113",595,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + deletion_granularity",0.92,0.947,0.933,0.88,0.96,0.9,0.99,0.9,0.96,"nM302",592,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + average_deletion_size",0.923,0.952,0.937,0.88,0.96,0.92,0.99,0.91,0.96,"nM303",588,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + prop_deletions",0.916,0.946,0.931,0.88,0.95,0.9,0.99,0.9,0.96,"nM305",591,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + num_match_blocks_v1",0.917,0.946,0.931,0.88,0.95,0.9,0.99,0.9,0.96,"nM306",592,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + num_nonmatch_blocks_v1",0.918,0.946,0.932,0.88,0.96,0.9,0.99,0.9,0.96,"nM307",592,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + num_match_blocks_v2",0.911,0.945,0.928,0.87,0.95,0.9,0.98,0.9,0.95,"nM309",587,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + num_nonmatch_blocks_v2",0.916,0.948,0.931,0.87,0.96,0.91,0.98,0.9,0.96,"nM310",587,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + addition_scope",0.913,0.942,0.927,0.87,0.96,0.89,0.98,0.9,0.95,"nM311",588,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + max_match_length_v1",0.914,0.949,0.931,0.87,0.96,0.9,0.98,0.9,0.96,"nM312",591,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + mean_match_length_v1",0.916,0.945,0.93,0.87,0.96,0.9,0.98,0.9,0.96,"nM313",590,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + max_match_length_v2",0.916,0.946,0.931,0.88,0.96,0.89,0.98,0.9,0.96,"nM314",591,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + mean_match_length_v2",0.914,0.943,0.928,0.87,0.95,0.88,0.99,0.89,0.96,"nM315",590,10
+"y ~ unigrams_bill_in_law + twentygrams_bill_in_law + total_ngrams_v1",0.921,0.948,0.934,0.88,0.96,0.89,0.98,0.9,0.96,"nM316",591,10
+"y ~ bigrams_bill_in_law + twentygrams_bill_in_law + deletion_granularity",0.927,0.956,0.941,0.88,0.97,0.9,0.99,0.91,0.97,"nM473",600,10
+"y ~ twentygrams_bill_in_law + deletion_granularity + average_deletion_size",0.916,0.955,0.935,0.87,0.96,0.91,0.99,0.9,0.96,"nM1002",601,10
+"y ~ twentygrams_bill_in_law + average_deletion_size + prop_deletions",0.919,0.949,0.934,0.88,0.96,0.9,0.99,0.9,0.96,"nM1017",587,9
+"y ~ twentygrams_bill_in_law + average_deletion_size + addition_scope",0.918,0.948,0.932,0.87,0.96,0.9,0.99,0.9,0.96,"nM1023",591,10
+"y ~ twentygrams_bill_in_law + average_deletion_size + max_match_length_v1",0.917,0.949,0.932,0.87,0.96,0.9,0.99,0.9,0.96,"nM1024",594,10
+"y ~ twentygrams_bill_in_law + average_deletion_size + mean_match_length_v1",0.919,0.949,0.934,0.88,0.96,0.9,0.99,0.91,0.96,"nM1025",595,10
+"y ~ twentygrams_bill_in_law + average_deletion_size + max_match_length_v2",0.917,0.951,0.933,0.87,0.96,0.9,0.99,0.9,0.96,"nM1026",594,10
+"y ~ twentygrams_bill_in_law + average_deletion_size + mean_match_length_v2",0.918,0.952,0.934,0.88,0.96,0.9,0.99,0.9,0.96,"nM1027",593,10
+"y ~ twentygrams_bill_in_law + scope + prop_deletions",0.901,0.915,0.908,0.86,0.94,0.86,0.97,0.87,0.94,"nM1029",580,10
