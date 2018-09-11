@@ -1,4 +1,4 @@
-# Hitchhiker Bills
+# More Effective Than We Thought
 This repository contains the replication material of the article "More Effective Than We Thought: Accounting for Legislative Hitchhikers Reveals a More Inclusive and Productive Lawmaking Process", in the _American Journal of Political Science_, by [Andreu Casas](http://andreucasas.com/), [Matthew Denny](http://www.mjdenny.com/), and [John Wilkerson](https://faculty.washington.edu/jwilker/Bio.pdf).
 
 
