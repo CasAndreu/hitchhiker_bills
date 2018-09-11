@@ -85,3 +85,7 @@ The `./code/` directory contains separate scripts to replicate each analytical f
   - [08-supporting-info-C-stage01-predicted-hitchhikers.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/08-supporting-info-C-stage01-predicted-hitchhikers.R): Code to replicate Figure 8 of the paper, where we show the distribution of the number of models (out of 99 high performing models) that predicted the same hitchhiker in the first stage of the hitchhiker discovering process.
   
 <img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure8-hitchhikers_barplot_iter1.png">  
+
+  - [09-supporting-info-C-summary-of-hitchhiker-discovering-process.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/09-supporting-information-C-summary-of-hitchhiker-discovering-process.R): Code to replicate Table 3 of the article (in Supporting Information C), where we provide a summary of the hitchhikers discovered at each stage of the discovering process, as well as information about the best performing models at each stage.
+  
+<img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/table3-summary-hitchhiker-discovering-process.png">
