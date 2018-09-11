@@ -45,9 +45,6 @@ tokens_bottom <- c("lt gt", " lt ", " gt ", "hr eh", "hr ih", "hr sc",
                    "hr enr", "hr rh", "hr rs", "hr eas", "hr es", "hr is", 
                    "hr as")
 
-
-
-
 # DATA
 #===============================================================================
 # - list of bills to be pre-processed (2 example bills in the ./data/bills/raw/
