@@ -77,3 +77,7 @@ The `./code/` directory contains separate scripts to replicate each analytical f
   - [06-figure7-where-insertions-occur.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/06-figure7-where-insertions-occur.R): Code to replicate Figure 7 of the paper, showing where in the legislative process hitchhiker bills get picked up.
  
 <img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure7_where_hitchhiker_get_picked_up.png">
+
+  - [07-supporting-info-A-preprocessing.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/07-supporting-info-A-preprocessing.R): Code to replicate the text pre-processing procedure described in the Supporting Information A of the paper. We remove all the procedural text and sections that should not be taken into consideration when comparing the substantive content of bills, as well as meaningless words such as stop words and other frequent tokens (e.g. section, act, secretary, etc.). For simplicity, in this script we show how to pre-process two example bills (103-HR-1-IH and 103-HR-2-RH). The same process can then be applied to pre-process all the bill versions collected for the study. The rest of the text files for each bill version can be easily downloaded from [congress.gov](http://congress.gov). The two example raw files are located in the `./data/bills/raw/` directory, and the pre-processed versions are located in `./data/bills/clean/`.
+ 
+
