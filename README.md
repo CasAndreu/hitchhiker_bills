@@ -97,3 +97,8 @@ The `./code/` directory contains separate scripts to replicate each analytical f
   - [11-figure9-heterogeneous-effects-supporting-information-D.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/11-figure9-heterogeneous-effects-supporting-information-D.R): Code to replicate Figure 9 in Supporting Information D, where we show that the key model coefficients do not vary much by Congress, strengthening the robustness of our findings.
   
 <img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure9-hetero-effects.png">
+
+  - [12-supporting-information-E-hitchhiker-examples-table.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/12-supporting-information-E-hitchhiker-examples-table.R): Code to replicate the table in Supporting Information E, where we provide a list of hitchhiker bills added to the Affordable Care Act and the Financial Freedom Act of 1999.
+  
+<img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/SI-D-hitchhiker-examples.png">
+
