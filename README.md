@@ -93,3 +93,7 @@ The `./code/` directory contains separate scripts to replicate each analytical f
   - [10-table4-descriptive-stats-table-supporting-information-D.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/10-table4-descriptive-stats-table-supporting-information-D.R): Code to replicate Table 4 in Supporting Information D, where we show descriptive statistics for the variables in the statistical models we use in the paper to test our hitchhiker hypotheses.
   
 <img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/table4-descriptive-stats-model-data.png">
+
+  - [11-figure9-heterogeneous-effects-supporting-information-D.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/11-figure9-heterogeneous-effects-supporting-information-D.R): Code to replicate Figure 9 in Supporting Information D, where we show that the key model coefficients do not vary much by Congress, strengthening the robustness of our findings.
+  
+<img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/figure9-hetero-effects.png">
