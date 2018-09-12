@@ -1,7 +1,7 @@
 #===============================================================================
 # 11-figure9-heterogeneous-effects-supporting-information-D.R
 # Purpose: to replicate Figure 9 in Supporting Information D, where we show that
-#           the key model coefficients do not very much by Congress, 
+#           the key model coefficients do not vary much by Congress, 
 #           strengthening the robustness of our findings.
 # Article: "More Effective Than We Thought: Accounting for Legislative 
 #           Hitchhikers Reveals a More Inclusive and Productive Lawmaking 
@@ -116,7 +116,7 @@ results_to_plot <- results %>%
 
 # PLOT: Figure 9 in Supporting Information D.
 #===============================================================================
-pdf("./ajps_RR_figures/hetero_effects.pdf", width = 12, height = 6)
+png("./figures/figure9-hetero-effects.png", width = 1200, height = 600)
 ggplot(results_to_plot %>%
          mutate(model = recode(model, 
                                `model1` = "LAW", `model2` = "HITCHHIKER"),
@@ -131,10 +131,11 @@ ggplot(results_to_plot %>%
   facet_grid(model ~ v, scales = "free_x") +
   geom_hline(yintercept = 1, color = "red") +
   xlab("Congress") +
-  ylab("\nRelative likelihood of a bill becoming a law on its own or as a hitchhiker") +
+  ylab("Relative likelihood of a bill becoming a law on its own or as a hitchhiker\n") +
   theme(
     panel.background = element_blank(),
     panel.grid.major = element_line(linetype = "dotted", color = "gray80"),
-    axis.line = element_line(color = "black")
+    axis.line = element_line(color = "black"),
+    strip.text = element_text(size = 14)
   )
 dev.off()
