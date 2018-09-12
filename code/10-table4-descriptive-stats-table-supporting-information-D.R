@@ -1,7 +1,7 @@
 #===============================================================================
 # 10-table4-descriptive-stats-table-supporting-information-D.R
 # Purpose: to replicate Table 4 in Supporting Information D, where we show 
-#           descriptive statistics for the variable in the statistical models we
+#           descriptive statistics for the variables in the statistical models we
 #           use in the paper to test our hitchhiker hypotheses.
 # Article: "More Effective Than We Thought: Accounting for Legislative 
 #           Hitchhikers Reveals a More Inclusive and Productive Lawmaking 
