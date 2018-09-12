@@ -89,3 +89,7 @@ The `./code/` directory contains separate scripts to replicate each analytical f
   - [09-supporting-info-C-summary-of-hitchhiker-discovering-process.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/09-supporting-information-C-summary-of-hitchhiker-discovering-process.R): Code to replicate Table 3 of the article (in Supporting Information C), where we provide a summary of the hitchhikers discovered at each stage of the discovering process, as well as information about the best performing models at each stage.
   
 <img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/table3-summary-hitchhiker-discovering-process.png">
+
+  - [10-table4-descriptive-stats-table-supporting-information-D.R](https://github.com/CasAndreu/hitchhiker_bills/blob/master/code/10-table4-descriptive-stats-table-supporting-information-D.R): Code to replicate Table 4 in Supporting Information D, where we show descriptive statistics for the variables in the statistical models we use in the paper to test our hitchhiker hypotheses.
+  
+<img src = "https://github.com/CasAndreu/hitchhiker_bills/blob/master/figures/table4-descriptive-stats-model-data.png">
