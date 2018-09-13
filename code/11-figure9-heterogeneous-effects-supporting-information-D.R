@@ -92,7 +92,7 @@ for (cong in congs) {
     model <- models[[i]]
     model_dataset <- datasets[[i]]
     
-    # - calculating marginal effects for the model (see how in the 00-functions.R)
+    # - calculating marginal effects for the model (see how in 00-functions.R)
     model_marfx <- get_marfx_logistic(model = model, 
                                       model_dataset = model_dataset,
                                       type = "likelihood",

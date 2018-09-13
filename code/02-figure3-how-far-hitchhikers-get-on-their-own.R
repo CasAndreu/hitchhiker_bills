@@ -56,7 +56,6 @@ db_02$BillChamber <- recode(db_02$BillChamber,
 
 # PLOT: Figure 3
 #===============================================================================
-#pdf("./Paper/images/figure9_BW.pdf", width = 14, height = 5)
 png("./figures/figure3_BW.png", width = 1400, height = 500)
 ggplot(db_02, 
        aes(x = last_vers_generic)) +
