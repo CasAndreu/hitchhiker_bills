@@ -1,0 +1,207 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{float}
+\usepackage[margin=1in]{geometry}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{tabularx}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\usepackage[table]{xcolor}  
+\begin{document}
+
+\noindent ``More Effective Than We Thought: Accounting for Legislative Hitchhikers Reveals a More Inclusive and Productive Lawmaking Process'', to be published at \textit{American Journal of Political Science} \\
+\noindent Andreu Casas, Matthew Denny, and John Wilkerson. \\
+
+\begin{center}
+\LARGE \textbf{Codebook} \\
+\end{center}
+
+\begin{table}[!h]
+\caption{Description of the variables in the main dataset of the study: \texttt{main\_db.csv}.}
+\hspace*{-0.75cm}\begin{tabular}{lL{12cm}}
+\textbf{Name} & \textbf{Description} \\
+\hline
+\rowcolor{gray!30}
+\texttt{BillID}	(string) &  Bill identifier composed of the Congress number, the type of bill, and the bill number (e.g. 103-HR-1). \\
+\texttt{BillType} (categorical) & Type of bill: house bill (hr), senate bill (s), house joint resolution (hjres), and senate joint resoluation (sjres). \\
+\rowcolor{gray!30}
+\texttt{BillNum}	(numeric) & Bill Number. \\
+\texttt{Title}	(string) & Bill Title. \\
+\rowcolor{gray!30}
+\texttt{ImpBill} (binary) & Whether the bill is an important (=1) or minor (=0) one. \\
+\texttt{outcome1}	(categorical) & Whether the bill is enacted as stand alone law (law), hitchhiker (insertion), or is not enacted (no law.) \\
+\rowcolor{gray!30}
+\texttt{LawID} (string) &(only available for hitchhiker bills) This variable provides the \texttt{BillID} of the bill into which a hitchhiker is inserted. \\
+\texttt{Major} (categorical) & Indicates the topic of the bill, according to the \textit{Congressional Bills Project} (CBP) major topic codes, which follows the \href{https://www.comparativeagendas.net/pages/master-codebook}{Comparative Agendas Policy codebook} (CAP.) \\
+\rowcolor{gray!30}
+\texttt{Minor}	 (categorical) & Indicates the CBP-CAP minor topic code. \\
+\texttt{Chamber} (binary)& The chamber in which the bill was introduced (0 = House, 1 = Senate). \\
+\rowcolor{gray!30}
+\texttt{RefArr} (string) & Provides the codes of the committees to which each bill was referred. See Table \ref{tab:committee} for a description of the codes.\\
+\texttt{Cong}	(categorical) & Congress in which the bill was introduced (93 through 113). \\
+\rowcolor{gray!30}
+\texttt{NameFull}	(string) & Name of the member who sponsored the bill. \\
+\texttt{Majority}	(binary) & Whether the sponsor is a member of the majority party (=1). \\
+\rowcolor{gray!30}
+\texttt{PooleID} (numeric) & Member-level numeric identifier. \\
+\texttt{MemberID} (numeric) & Another member-level unique ID of our own. \\
+\rowcolor{gray!30}
+\texttt{bills\_spons\_n} (numeric) & The number of bills sponsored by the bill sponsor in that Congress. \\
+\texttt{experience} (numeric) & Number of years the member has served in Congress (years in the House and in the Senate if the members has been in both).\\
+\rowcolor{gray!30}
+\texttt{Gender} (binary) & Whether the sponsor is a female (=1, 0 otherwise) \\
+\texttt{AA}  (binary) & Whether the sponsor is African American (=1, 0 otherwise) \\
+\rowcolor{gray!30}
+\texttt{Hisp} (binary) & Whether the sponsor is Hispanic (=1, 0 otherwise).\\
+\texttt{MRef}	(binary) & Whether the sponsor is a member of one of the committees to which the bill is referred (=1, 0 otherwise). \\
+\rowcolor{gray!30}
+\texttt{ChRef	}(binary) & Whether the sponsor is Chair of one of the committees to which the bill is referred (=1, 0 otherwise). \\
+\texttt{SubChRef}	(binary) &  Whether the sponsor is Chair of one of the subcommittees to which the bill is referred (=1, 0 otherwise). \\
+\rowcolor{gray!30}
+\texttt{RankRef} (binary) & Whether the sponsor is Ranking Member of one of the committees to which the bill is referred (=1, 0 otherwise). \\
+\texttt{SubRankRef}	(binary) & Whether the sponsor is Ranking Member of one of the subcommittees to which the bill is referred (=1, 0 otherwise). \\
+\rowcolor{gray!30}
+\texttt{extremism}	(numeric) & Indicates the ideological extremism of the sponsor. The absolute difference between the sponsor's DW-Nominate score and the Congress-Chamber mean. \\
+\texttt{revenue\_bill} (binary) & Whether the bill is a revenue bill. The variable has a value of 1 if the bill is referred to either the Senate Finance Committee (SSFI) or the House Committee on Ways and Means (HSWM), 0 otherwise. \\
+\rowcolor{gray!30}
+\texttt{reauth} (binary) & Whether the bill is a reauthorization bill. The variable has a value of 1 if the string reauth* is present in the title , 0 otherwise. 
+\end{tabular}
+\end{table}
+
+
+
+\hspace*{-1.25cm}\begin{tabular}{lL{11.5cm}}
+\rowcolor{gray!30}
+\texttt{companion} (binary) & Whether the bill has a companion bill in the other chamber. The variable has a value of 1 if there was a bill in the other Chamber in that Congress that shares at least 95\% of the unigrams (at least 95\% of the bill's unigrams need to be in the other bill and vice versa), 0 otherwise.  \\
+\texttt{by\_request} (binary) & Whether the bill is promoted by the Administration. These are bills that are primarily about defense, trade or international affairs and that have been introduced "by request", 0 otherwise. \\
+\rowcolor{gray!30}
+\texttt{unified\_cong} (binary) & Congress-level covariate indicating whether the same party has the majority in both chambers (=1, 0 otherwise). \\
+\texttt{nomgrid} (numeric) & Interval measure from: Gray, T., and Jenkins, J. (2017). Pivotal Politics and the ideological content of Landmark Laws. \textit{Journal of Public Policy}, 1-28. \\
+\rowcolor{gray!30}
+\texttt{Cosponsr\_log} (numeric) & The log of the number of co-sponsors of the bill. \\
+\texttt{all\_vers}	(string) & (only available for hitchhiker bills) all versions of the bill (e.g. IH;RH:EH).  See Table \ref{tab:billtypes} for a description of the different bill types. \\
+\rowcolor{gray!30}
+\texttt{last\_vers}(string) &  (only available for hitchhiker bills) The last version of the bill (e.g. EH). See Table \ref{tab:billtypes} for a description of the different bill types. \\
+\texttt{last\_vers\_generic}	(string) &  (only available for hitchhiker bills) A generic way of indicating the last version of a given bill. See Table \ref{tab:billtypes} for a description of the different generic bill types. \\
+\rowcolor{gray!30}
+\texttt{first\_match}	(string) & (only available for hitchhiker bills) Stage in the legislative process in which the target law incorporated the hitchhiker bill.  See Table \ref{tab:billtypes} for a description of the bill type-stage. \\
+\texttt{Major\_Law}	(string) & (only available for hitchhiker bills) Major topic of the target law into which the bill was inserted, according to the CBP-CAP codebook. \\
+\end{tabular}
+
+\vspace*{2cm}
+
+\begin{table}[!h]  \centering
+\caption{U.S. Congress Bill Version Types}
+\label{tab:billtypes}
+\hspace*{-0.75cm}\begin{tabular}{llL{9.75cm}}
+\textbf{Name} & \textbf{Code} &  \textbf{Generic Name} \\
+\hline
+\rowcolor{gray!30}
+IH &  Introduced in the House & Introduced \\
+RH & Reported in the House & Reported\\
+\rowcolor{gray!30}
+EH & Engrossed in the House & Engrossed \\
+AS & Amended in the Senate & Other chamber amended (if bill first introduced in the House); Same chamber amended (if first introduced in the Senate)\\
+\rowcolor{gray!30}
+EAS & Engrossed Amendment Senate & Other chamber amended (if bill first introduced in the House); Same chamber amended (if first introduced in the Senate) \\
+IS & Introduced in the Senate & Introduced \\
+\rowcolor{gray!30}
+RS & Reported in the Senate & Reported\\
+ES & Engrossed in the Senate & Engrossed \\
+\rowcolor{gray!30}
+AH & Amended in the House & Other chamber amended (if bill first introduced in the Senate); Same chamber amended (if first introduced in the House)\\
+EAH & Engrossed Amendment House & Other chamber amended (if bill first introduced in the Senate); Same chamber amended (if first introduced in the House) \\
+\rowcolor{gray!30}
+ENR & Enrolled & Enrolled \\
+
+\end{tabular}
+\end{table}
+
+
+\begin{table}  \centering
+\caption{U.S. Congress Committee Codes}
+\label{tab:committee}
+\begin{tabular}{ll}
+\textbf{Name} & \textbf{Code} \\
+\hline
+\rowcolor{gray!30}
+House Agriculture	 &	HSAG	\\
+House Appropriations	&	HSAP	\\
+\rowcolor{gray!30}
+House Armed Services	&	HSAS \\
+House Financial Services	&	HSBA	\\
+\rowcolor{gray!30}
+House Budget	&	HSBU	\\
+House District of Columbia	&	HSDT	\\
+\rowcolor{gray!30}
+House Education and Labor	&	HSED	\\
+House Energy and Commerce	&	HSIF	\\
+\rowcolor{gray!30}
+House International Relations	&	HSFA	\\
+House Government Reform and Oversight	&	HSGO	\\
+\rowcolor{gray!30}
+House House Oversight 	&	HSHA	\\
+House Judiciary	&	HSJU	\\
+\rowcolor{gray!30}
+House Merchant Marine and Fisheries	&	HSMM	\\
+House Resources	&	HSII	\\
+\rowcolor{gray!30}
+House Post Office and Civil Service	&	HSPO	\\
+House Public Works and Transportation	&	HSPW	\\
+\rowcolor{gray!30}
+House Rules	&	HSRU	\\
+House Science	&	HSSY	\\
+\rowcolor{gray!30}
+House Small Business	&	HSSM	\\
+House Standards of Official Conduct	&	HSSO	\\
+\rowcolor{gray!30}
+House Veterans Affairs	&	HSVR	\\
+House Ways and Means	&	HSWM	\\
+\rowcolor{gray!30}
+House Intelligence	&	HLIG	\\
+House Homeland Security	&	HSHM	\\
+\rowcolor{gray!30}
+Senate Agriculture, Nutrition, and Forestry	&	SSAF	\\
+Senate Appropriations	&	SSAP	\\
+\rowcolor{gray!30}
+Senate Armed Services	&	SSAS	\\
+Senate Banking, Housing, and Urban Affairs	&	SSBK	\\
+\rowcolor{gray!30}
+Senate Budget	&	SSBU	\\
+Senate Commerce, Science, and Transportation	&	SSCM	\\
+\rowcolor{gray!30}
+Senate Energy and Natural Resources	&	SSEG	\\
+Senate Environment and Public Works	&	SSEV	\\
+\rowcolor{gray!30}
+Senate Finance	&	SSFI	\\
+Senate Foreign Relations	&	SSFR	\\
+\rowcolor{gray!30}
+Senate Governmental Affairs	&	SSGA	\\
+Senate Judiciary	&	SSJU	\\
+\rowcolor{gray!30}
+Senate Labor and Human Resources	&	SSHR	\\
+Senate Rules and Administration	&	SSRA	\\
+\rowcolor{gray!30}
+Senate Small Business	&	SSSB	\\
+Senate Veterans Affairs	 &	SSVA	\\
+\rowcolor{gray!30}
+Senate Select Aging	&	SPAG	\\
+Senate Select Intelligence	&	SLIN	\\
+\rowcolor{gray!30}
+Senate Select Ethics	&	SPOC	\\
+Senate Select Indian Affairs	&	SLIA	\\
+\rowcolor{gray!30}
+Joint Library	&	JSLC 	\\
+Joint Printing	&	JSPR	 \\
+\rowcolor{gray!30}
+Joint Taxation	&	JSTX	\\
+Joint Economic	&	JSEC	\\
+\end{tabular}
+\end{table}
+
+
+\end{document}
