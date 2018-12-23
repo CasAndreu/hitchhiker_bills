@@ -1,5 +1,5 @@
 #===============================================================================
-# 01-figure2-hitchhikers-versus-laws-by-congress-by-importantbill.R
+# 01-figure2.R
 # Purpose: To replicate Figure 3 of the paper, showing the number of hitchhiker
 #          bills and laws by Congress, distingushing between important and minor
 #          bills.
@@ -13,6 +13,11 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if needed
+installed.packages("rio")
+installed.packages("dplyr")
+installed.packages("ggplot2")
+# - load packages
 library(rio)
 library(dplyr)
 library(ggplot2)
@@ -20,7 +25,7 @@ library(ggplot2)
 # DATA
 #===============================================================================
 # - dataset with both important and minor bills of interest
-db <- import("./data/main_db.csv")
+db <- import("../data/main_db.csv")
 
 # DATA WRANGLING
 #===============================================================================
@@ -37,7 +42,7 @@ plot_db <- db %>%
 
 # PLOT: Figure 2
 #===============================================================================
-#png("./figures/figure2_BW.png", width = 1200, height = 500)
+png("../figures/figure2_BW.png", width = 1200, height = 500)
 ggplot(plot_db, aes(x = factor(Cong), fill = factor(outcome1))) +
   geom_bar(position = "dodge") +
   ylab("Number of bills") +

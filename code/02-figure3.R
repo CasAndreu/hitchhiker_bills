@@ -1,5 +1,5 @@
 #===============================================================================
-# 02-figure3-how-far-hitchhiker-get-on-their-own.R
+# 02-figure3.R
 # Purpose: To replicate figure 4 of the paper, showing how far hitchhiker bills 
 #          get though the legislative process on their own.
 # Article: "More Effective Than We Thought: Accounting for Legislative 
@@ -12,14 +12,23 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if necessary
+install.packages("rio")
+install.packages("dplyr")
+install.packages("tidyr")
+install.packages("grid")
+install.packages("ggplot2")
+
+# - load packages
 library(rio)
 library(dplyr)
 library(tidyr)
 library(grid)
+library(ggplot2)
 
 # DATA
 #===============================================================================
-db <- import("./data/main_db.csv")
+db <- import("../data/main_db.csv")
 
 # DATA WRANGLIONG
 #===============================================================================
@@ -56,7 +65,7 @@ db_02$BillChamber <- recode(db_02$BillChamber,
 
 # PLOT: Figure 3
 #===============================================================================
-png("./figures/figure3_BW.png", width = 1400, height = 500)
+png("../figures/figure3_BW.png", width = 1400, height = 500)
 ggplot(db_02, 
        aes(x = last_vers_generic)) +
   geom_bar(fill = "gray70") +

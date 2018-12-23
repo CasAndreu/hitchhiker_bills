@@ -1,5 +1,5 @@
 #===============================================================================
-# 09-supporting-info-C-summary-of-hitchhiker-discovering-process.R
+# 09-supporting-info-C.R
 # Purpose: to replicate Table 3 of the paper, where we provide a summary of the
 #           hitchhiker discovered at each stage of the discovering process, as
 #           well as information about the best performing models.
@@ -13,13 +13,17 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if needed
+install.packages("dplyr")
+
+# - load the packages
 library(dplyr)
 
 # PATHS & CONSTANTS
 #===============================================================================
 # - path to where the predictions made during the hitchhiker discovering process
 #   are located
-pred_path <- "./data/predictions/"
+pred_path <- "../data/predictions/"
 
 # MAIN
 #===============================================================================
@@ -32,7 +36,7 @@ iter = 1
 
 # - reading the training set and splitting the set into True positives and True
 #   Negatives
-labs_db <- read.csv("./data/hr146_bi80_uni90_labeled.csv")
+labs_db <- read.csv("../data/hr146_bi80_uni90_labeled.csv")
 Tpos <- as.numeric(table(labs_db$true_match_num2)[2])
 Tneg <- as.numeric(table(labs_db$true_match_num2)[1])
 

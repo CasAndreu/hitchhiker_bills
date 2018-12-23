@@ -1,5 +1,5 @@
 #===============================================================================
-# 05-figure6-LES-v-our-measure-of-effectiveness.R
+# 05-figure6.R
 # Purpose: to replicate Figure 6 of the paper, comparing our measure of 
 #           effectivenes (legislation enacted as proportion of legislation 
 #           introduced) v. Legislative Effectiveness Scores, of Volden and 
@@ -14,6 +14,13 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if needed
+install.packages("dplyr")
+install.packages("rio")
+install.packages("tidyr")
+install.packages("ggplot2")
+
+# - load the packages
 library(rio)
 library(dplyr)
 library(tidyr)
@@ -22,19 +29,19 @@ library(ggplot2)
 # DATA
 #===============================================================================
 # - dataset with the bill levels information
-bills <- import("./data/main_db.csv")
+bills <- import("../data/main_db.csv")
 
 # - exclude minor non-important bills
 bills <- bills %>%
   filter(ImpBill == 1)
 
 # - Volden and Weisman data
-les01 <- import("./data/LEPData93to110Congresses.xlsx")[-1,]
-les02 <- import("./data/LEPData111to113Congresses.xlsx")[-1,]
+les01 <- import("../data/LEPData93to110Congresses.xlsx")[-1,]
+les02 <- import("../data/LEPData111to113Congresses.xlsx")[-1,]
 
 # - Loading committee assignments & resp data from Charles Stewart III
-house_comm_data <- import("./data/house_assignments_103-115-3.xls")
-senate_comm_data <- import("./data/senators_103-115-2.xls", skip = 1)
+house_comm_data <- import("../data/house_assignments_103-115-3.xls")
+senate_comm_data <- import("../data/senators_103-115-2.xls", skip = 1)
 
 # DATA WRANGLING
 #===============================================================================
@@ -119,7 +126,7 @@ final_data_rank_diff <- final_data_02 %>%
   mutate(label_01 = as.character(round(les, 2)),
          label_02 = paste0(law, " (", law_hhiker, ")"))
 
-png("./figures/figure6a-LES-vs-OUR-indiv-diff.png", width = 1000, height = 1100)
+png("../figures/figure6a-LES-vs-OUR-indiv-diff.png", width = 1000, height = 1100)
 ggplot(final_data_rank_diff %>%
          filter(Cong == 111) %>%
          mutate(Cong = "111th Congress") %>%
@@ -151,7 +158,7 @@ ggplot(final_data_rank_diff %>%
 dev.off()
 
 # - a plot showing the full distribution 
-png("./figures/figure6b-LES-vs-OUR-indiv-diff-FULL-DIST.png",
+png("../figures/figure6b-LES-vs-OUR-indiv-diff-FULL-DIST.png",
     width = 1000, height = 1100)
 ggplot(final_data_rank_diff %>%
          filter(Cong == 111) %>%

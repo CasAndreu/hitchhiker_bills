@@ -1,5 +1,5 @@
 #===============================================================================
-# 06-figure7-where-insertions-occur.R
+# 06-figure7.R
 # Purpose: to replicate Figure 7 of the paper, showing where in the legislative
 #           process hitchhiker bills get picked up.
 # Article: "More Effective Than We Thought: Accounting for Legislative 
@@ -10,8 +10,15 @@
 # Authors: Andreu Casas, Matt Denny, and John Wilkerson
 #===============================================================================
 
-# # PACKAGES
+# PACKAGES
 #===============================================================================
+# - install packages if needed
+install.packages("dplyr")
+install.packages("rio")
+install.packages("tidyr")
+install.packages("ggplot2")
+
+# - load the packages
 library(dplyr)
 library(tidyr)
 library(ggplot2)
@@ -20,7 +27,7 @@ library(rio)
 # DATA
 #===============================================================================
 # - importing the main dataset with all bill level information
-bills <- import("./data/main_db.csv")
+bills <- import("../data/main_db.csv")
 
 # DATA WRANGLING
 #===============================================================================
@@ -89,7 +96,7 @@ hitchhikers_plotdb$first_match <- factor(hitchhikers_plotdb$first_match,
 
 # PLOT: Figure 7
 #===============================================================================
-png("./figures/figure7_where_hitchhiker_get_picked_up.png", 
+png("../figures/figure7_where_hitchhiker_get_picked_up.png", 
     width = 1600, height = 800)
 ggplot(na.omit(hitchhikers_plotdb), aes(x = first_match, fill = label)) +
   geom_bar(color = "gray50") +

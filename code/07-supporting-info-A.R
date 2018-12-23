@@ -1,5 +1,5 @@
 #===============================================================================
-# 07-supporting-info-A-preprocessing.R
+# 07-supporting-info-A.R
 # Purpose: to pre-process the text of bills: we remove all the procedural text
 #           we don't want to use when comparing bill versions, as well as 
 #           meaningless words such as stop words and other frequent tokens (e.g.
@@ -18,16 +18,31 @@
 
 # PACKAGES
 #===============================================================================
+# - dependency WARTNING /!\
+#   Please note that the "qdap" package requires you have the Java runtime 
+#   environment installed in addition to the package. Installing the correct 
+#   JRE can be tricky. Windows users on 64-bit platforms need to download the 
+#   32-bit JRE (the default install on Java's main downloads page) AND the 
+#   64-bit JRE, which is obtained on a different downloads page. For whatever
+#   reason, Oracle doesn't bundle these installations together or detect 
+#   the user's OS architecture in determining which download to suggest. Mac
+#   users can follow the instructions in this link:
+#   https://java.com/en/download/help/mac_install.xml
+
+# - install packages if needed
+install.packages("dplyr")
+
+# - load the packages
 library(dplyr)
-source("./code/00-functions.R")
+source("../code/00-functions.R")
 
 # CONSTANTS & PATHS
 #===============================================================================
 # - path to where the raw bills are located
-raw_path <- "./data/bills/raw/"
+raw_path <- "../data/bills/raw/"
 
 # - path where to place the pre-processed bills
-clean_path <- "./data/bills/clean/"
+clean_path <- "../data/bills/clean/"
 
 # - top procedural statement all bills have and that we want to remove and not
 #   to take into account when comparing bill versions

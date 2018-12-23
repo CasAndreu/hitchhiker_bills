@@ -1,5 +1,5 @@
 #===============================================================================
-# 04-figure5-general-effects-on-effectiveness.R
+# 04-figure5.R
 # Purpose: to replicate figure 5 of the paper, showing how counting hitchhikers 
 #           as enacted legislation increases the proportion of different types 
 #           of members that get at least 1 bill enacted in any given Congress
@@ -13,6 +13,13 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if needed
+install.packages("dplyr")
+install.packages("rio")
+install.packages("tidyr")
+install.packages("ggplot2")
+
+# - load the packages
 library(dplyr)
 library(tidyr)
 library(ggplot2)
@@ -21,10 +28,10 @@ library(rio)
 # DATA
 #===============================================================================
 # - importing main dataset
-db <- import("./data/main_db.csv")
+db <- import("../data/main_db.csv")
 
 # - a dataset with member level information (committee assignments)
-members <- import("./data/members_comm_assign_w_MemberID.csv")
+members <- import("../data/members_comm_assign_w_MemberID.csv")
 
 # DATA WRANGLING
 #===============================================================================
@@ -133,9 +140,9 @@ avlines <- plotdb %>%
 
 # PLOT: Figure 5
 #===============================================================================
-png("./figures/figure5_so_what_BW.png", width = 1500, height = 500)
+png("../figures/figure5_so_what_BW.png", width = 1500, height = 500)
 ggplot(plotdb, 
-       aes(x = Cong, y = law_prop, col = outcome, group = outcome)) +
+       aes(x = as.character(Cong), y = law_prop, col = outcome, group = outcome)) +
   geom_line(lwd = 2) +
   geom_hline(data = avlines,  
              aes(yintercept = av, col = outcome), lwd = 1.2, alpha = 0.5) +

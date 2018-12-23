@@ -14,17 +14,26 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if needed
+install.packages("dplyr")
+install.packages("rio")
+install.packages("tidyr")
+install.packages("ggplot2")
+install.packages("broom")
+install.packages("xtable")
+
+# - load the packages
 library(dplyr)
 library(rio)
 library(tidyr)
 library(ggplot2)
 library(broom)
 library(xtable)
-source("./code/00-functions.R") # our own utils
+source("../code/00-functions.R") # our own utils
 
 # DATA
 #===============================================================================
-db <- import("./data/main_db.csv")
+db <- import("../data/main_db.csv")
 
 # DATA
 #===============================================================================
@@ -192,7 +201,7 @@ full_marfx_to_plot <- full_marfx_to_plot %>%
 
 # PLOT: Figure 4
 #===============================================================================
-#png("./figures/figure4-coefficient-plot.png", width = 1000, height = 700)
+png("../figures/figure4-coefficient-plot.png", width = 1000, height = 700)
 ggplot(full_marfx_to_plot,
        aes(x = var, y = pe, ymin = lwr, ymax = upr)) +
   geom_pointrange(aes(shape = as.character(transf_coef)),
@@ -442,5 +451,21 @@ final_table$term <- factor(final_table$term,
 final_table <- final_table %>%
   arrange(term)
 
+# - add into tables the number observations for each model 
+law_modeldata_n <- nrow(model_data_01)
+hhicker_modeldata_n <- nrow(model_data_02)
+obs_row <- data.frame(
+  term = "N", LAW = law_modeldata_n, HITCHHIKER = hhicker_modeldata_n)
+
+
+# - add into talbes the AIC for both models
+law_aic <- logisitc_model1$aic
+hhicker_aic <- logisitc_model2$aic
+aic_row <- data.frame(
+  term = "AIC", LAW = law_aic, HITCHHIKER = hhicker_aic)
+
+final_table <- rbind(final_table, obs_row, aic_row)
+
 # - the following line prints the sharelatex code that generates the table
 print(xtable(final_table),  include.rownames=FALSE)
+

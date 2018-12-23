@@ -1,5 +1,5 @@
 #===============================================================================
-# 08-supporting-info-C-stage01-predicted-hitchhikers.R
+# 08-supporting-info-C.R
 # Purpose: to replicate Figure 8 of the paper, where we show the distribution of
 #           the number of models (out of 99 high performing models) that 
 #           predicted the same hitchhiker in the first stage of the hitchhiker
@@ -14,20 +14,27 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if needed
+install.packages("dplyr")
+install.packages("rio")
+install.packages("ggplot2")
+
+# - load the packages
 library(dplyr)
+library(rio)
 library(ggplot2)
-source("./code/00-functions.R")
+source("../code/00-functions.R")
 
 # DATA
 #===============================================================================
 # - loading a dataset with information about the hitchhikers predicted by the 
 #   99 high performing models in the first stage of the hitchhiker discovering 
 #   process.
-preds <- import("./data/predictions/hitchhiker_predictions_stage01.csv")
+preds <- import("../data/predictions/hitchhiker_predictions_stage01.csv")
 
 # PLOT: Figure 8, in Supporting Information C
 #===============================================================================
-png("./figures/figure8-hitchhikers_barplot_iter1.png", width = 1200, height = 500)
+png("../figures/figure8-hitchhikers_barplot_iter1.png", width = 1200, height = 500)
 ggplot(preds, aes(x = sum)) +
   geom_bar(color = blue, fill = blue) +
   scale_x_continuous(breaks = seq(1, 99, 7),

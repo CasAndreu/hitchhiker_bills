@@ -1,5 +1,5 @@
 #===============================================================================
-# 11-figure9-heterogeneous-effects-supporting-information-D.R
+# 11-figure9-supporting-information-D.R
 # Purpose: to replicate Figure 9 in Supporting Information D, where we show that
 #           the key model coefficients do not vary much by Congress, 
 #           strengthening the robustness of our findings.
@@ -13,18 +13,27 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if needed
+install.packages("dplyr")
+install.packages("rio")
+install.packages("xtable")
+install.packages("tidyr")
+install.packages("foreign")
+install.packages("readstata13")
+
+# - load the packages
 library(dplyr)
 library(foreign)
 library(rio)
 library(tidyr)
 library(readstata13)
 library(ggplot2)
-source("./code/00-functions.R")
+source("../code/00-functions.R")
 
 # DATA
 #===============================================================================
 # - loading the dataset used for data modeling
-db <- import("./data/main_db.csv") %>%
+db <- import("../data/main_db.csv") %>%
   filter(ImpBill == 1)
 
 # DATA WRANGLING
@@ -116,7 +125,7 @@ results_to_plot <- results %>%
 
 # PLOT: Figure 9 in Supporting Information D.
 #===============================================================================
-png("./figures/figure9-hetero-effects.png", width = 1200, height = 600)
+png("../figures/figure9-hetero-effects.png", width = 1200, height = 600)
 ggplot(results_to_plot %>%
          mutate(model = recode(model, 
                                `model1` = "LAW", `model2` = "HITCHHIKER"),

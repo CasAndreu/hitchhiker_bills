@@ -1,5 +1,5 @@
 #===============================================================================
-# 10-table4-descriptive-stats-table-supporting-information-D.R
+# 10-table4-supporting-information-D.R
 # Purpose: to replicate Table 4 in Supporting Information D, where we show 
 #           descriptive statistics for the variables in the statistical models we
 #           use in the paper to test our hitchhiker hypotheses.
@@ -13,14 +13,22 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if needed
+install.packages("dplyr")
+install.packages("rio")
+install.packages("xtable")
+install.packages("tidyr")
+
+# - load the packages
 library(dplyr)
+library(tidyr)
 library(rio)
 library(xtable)
 
 # DATA
 #===============================================================================
 # - data used for modeling
-bills <- import("./data/main_db.csv") %>%
+bills <- import("../data/main_db.csv") %>%
   filter(ImpBill == 1)
 
 # DATA WRANGLING

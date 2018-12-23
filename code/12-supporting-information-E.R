@@ -1,5 +1,5 @@
 #===============================================================================
-# 12-supporting-information-E-hitchhiker-examples-table.R
+# 12-supporting-information-E.R
 # Purpose: to replicate the table in Supporting Information E, where we provide
 #           a list of hitchhiker bills added to the Affordable Care Act and the
 #           Financial Freedom Act of 1999.
@@ -13,6 +13,12 @@
 
 # PACKAGES
 #===============================================================================
+# - install packages if needed
+install.packages("dplyr")
+install.packages("rio")
+install.packages("xtable")
+
+# - load the packages
 library(rio)
 library(dplyr)
 library(xtable)
@@ -20,7 +26,7 @@ library(xtable)
 # DATA
 #===============================================================================
 # - data used for modeling
-bills <- import("./data/main_db.csv") %>%
+bills <- import("../data/main_db.csv") %>%
   filter(ImpBill == 1)
 
 # DATA WRANLGING
