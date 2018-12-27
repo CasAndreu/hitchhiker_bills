@@ -45,13 +45,13 @@
 \texttt{Cong}	(categorical) & Congress in which the bill was introduced (93 through 113). \\
 \rowcolor{gray!30}
 \texttt{NameFull}	(string) & Name of the member who sponsored the bill. \\
-\texttt{Majority}	(binary) & Whether the sponsor is a member of the majority party (=1). \\
+\texttt{Majority}	(binary) & Whether the sponsor is a member of the majority party (=1, 0 otherwise). \\
 \rowcolor{gray!30}
-\texttt{PooleID} (numeric) & Member-level numeric identifier. \\
-\texttt{MemberID} (numeric) & Another member-level unique ID of our own. \\
+\texttt{PooleID} (numeric) & Member-level unique numeric identifier. \\
+\texttt{MemberID} (numeric) & Congress-member-level unique identifier. \\
 \rowcolor{gray!30}
-\texttt{bills\_spons\_n} (numeric) & The number of bills sponsored by the bill sponsor in that Congress. \\
-\texttt{experience} (numeric) & Number of years the member has served in Congress (years in the House and in the Senate if the members has been in both).\\
+\texttt{bills\_spons\_n} (numeric) & The number of bills sponsored by the bill sponsor during that Congress. \\
+\texttt{experience} (numeric) & Number of years the member has served in Congress (years in the House plus years in the Senate if the member has served in both).\\
 \rowcolor{gray!30}
 \texttt{Gender} (binary) & Whether the sponsor is a female (=1, 0 otherwise) \\
 \texttt{AA}  (binary) & Whether the sponsor is African American (=1, 0 otherwise) \\
@@ -68,7 +68,7 @@
 \texttt{extremism}	(numeric) & Indicates the ideological extremism of the sponsor. The absolute difference between the sponsor's DW-Nominate score and the Congress-Chamber mean. \\
 \texttt{revenue\_bill} (binary) & Whether the bill is a revenue bill. The variable has a value of 1 if the bill is referred to either the Senate Finance Committee (SSFI) or the House Committee on Ways and Means (HSWM), 0 otherwise. \\
 \rowcolor{gray!30}
-\texttt{reauth} (binary) & Whether the bill is a reauthorization bill. The variable has a value of 1 if the string reauth* is present in the title , 0 otherwise. 
+\texttt{reauth} (binary) & Whether the bill is a reauthorization bill. The variable has a value of 1 if the string `reauth*' is present in the title, 0 otherwise. 
 \end{tabular}
 \end{table}
 
@@ -76,11 +76,11 @@
 
 \hspace*{-1.25cm}\begin{tabular}{lL{11.5cm}}
 \rowcolor{gray!30}
-\texttt{companion} (binary) & Whether the bill has a companion bill in the other chamber. The variable has a value of 1 if there was a bill in the other Chamber in that Congress that shares at least 95\% of the unigrams (at least 95\% of the bill's unigrams need to be in the other bill and vice versa), 0 otherwise.  \\
-\texttt{by\_request} (binary) & Whether the bill is promoted by the Administration. These are bills that are primarily about defense, trade or international affairs and that have been introduced "by request", 0 otherwise. \\
+\texttt{companion} (binary) & Whether the bill has a companion bill in the other chamber. The variable has a value of 1 if there is a bill in the other Chamber in that same Congress that shares at least 95\% of the unigrams (at least 95\% of the bill's unigrams need to be in the other bill and vice versa), 0 otherwise.  \\
+\texttt{by\_request} (binary) & Whether the bill is promoted by the Administration. These are bills that are primarily about defense, trade or international affairs and that have been introduced ``by request", 0 otherwise. \\
 \rowcolor{gray!30}
 \texttt{unified\_cong} (binary) & Congress-level covariate indicating whether the same party has the majority in both chambers (=1, 0 otherwise). \\
-\texttt{nomgrid} (numeric) & Interval measure from: Gray, T., and Jenkins, J. (2017). Pivotal Politics and the ideological content of Landmark Laws. \textit{Journal of Public Policy}, 1-28. \\
+\texttt{nomgrid} (numeric) & \textit{Gridlock Interval} measure from: Gray, T., and Jenkins, J. (2017). Pivotal Politics and the ideological content of Landmark Laws. \textit{Journal of Public Policy}, 1-28. \\
 \rowcolor{gray!30}
 \texttt{Cosponsr\_log} (numeric) & The log of the number of co-sponsors of the bill. \\
 \texttt{all\_vers}	(string) & (only available for hitchhiker bills) all versions of the bill (e.g. IH;RH:EH).  See Table \ref{tab:billtypes} for a description of the different bill types. \\
