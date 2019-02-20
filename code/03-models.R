@@ -253,7 +253,7 @@ ggplot(full_marfx_to_plot,
 dev.off()
 
 
-# COEFFICIENT TABLE: Table 4, in Supporting Information D
+# COEFFICIENT TABLE: Table 5, in Supporting Information D
 #===============================================================================
 # Creating coefficient tables for these two models, to be placed in appendix
 
@@ -462,7 +462,7 @@ obs_row <- data.frame(
 law_aic <- logisitc_model1$aic
 hhicker_aic <- logisitc_model2$aic
 aic_row <- data.frame(
-  term = "AIC", LAW = law_aic, HITCHHIKER = hhicker_aic)
+  term = "AIC", LAW = round(law_aic, 2), HITCHHIKER = round(hhicker_aic, 2))
 
 final_table <- rbind(final_table, obs_row, aic_row)
 
